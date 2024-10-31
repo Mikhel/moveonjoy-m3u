@@ -4411,6 +4411,10 @@
         <display-name lang="en">Baseball</display-name>
         <icon src="https://img.freepik.com/premium-vector/hand-drawn-doodle-baseball-ball-sports-equipment-cartoon-sketch-vector-illustration_501907-1187.jpg" />
     </channel>
+    <channel id="Cinebox.Dummy.us">
+        <display-name lang="en">Cinebox</display-name>
+        <icon src="https://pbs.twimg.com/profile_images/696705360304979968/hKrB1OuV_400x400.png" />
+    </channel>
     <programme start="20241030000000 +0000" stop="20241030010000 +0000" channel="Basketball.Dummy.us">
         <title lang="en">Basketball</title>
         <desc lang="en">Basketball</desc>
@@ -5178,6 +5182,390 @@
     <programme start="20241102230000 +0000" stop="20241102235900 +0000" channel="Baseball.Dummy.us">
         <title lang="en">Baseball</title>
         <desc lang="en">Baseball</desc>
+    </programme>
+    <programme start="20241030000000 +0000" stop="20241030010000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241030010000 +0000" stop="20241030020000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241030020000 +0000" stop="20241030030000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241030030000 +0000" stop="20241030040000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241030040000 +0000" stop="20241030050000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241030050000 +0000" stop="20241030060000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241030060000 +0000" stop="20241030070000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241030070000 +0000" stop="20241030080000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241030080000 +0000" stop="20241030090000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241030090000 +0000" stop="20241030100000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241030100000 +0000" stop="20241030110000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241030110000 +0000" stop="20241030120000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241030120000 +0000" stop="20241030130000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241030130000 +0000" stop="20241030140000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241030140000 +0000" stop="20241030150000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241030150000 +0000" stop="20241030160000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241030160000 +0000" stop="20241030170000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241030170000 +0000" stop="20241030180000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241030180000 +0000" stop="20241030190000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241030190000 +0000" stop="20241030200000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241030200000 +0000" stop="20241030210000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241030210000 +0000" stop="20241030220000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241030220000 +0000" stop="20241030230000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241030230000 +0000" stop="20241030235900 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241031000000 +0000" stop="20241031010000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241031010000 +0000" stop="20241031020000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241031020000 +0000" stop="20241031030000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241031030000 +0000" stop="20241031040000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241031040000 +0000" stop="20241031050000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241031050000 +0000" stop="20241031060000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241031060000 +0000" stop="20241031070000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241031070000 +0000" stop="20241031080000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241031080000 +0000" stop="20241031090000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241031090000 +0000" stop="20241031100000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241031100000 +0000" stop="20241031110000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241031110000 +0000" stop="20241031120000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241031120000 +0000" stop="20241031130000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241031130000 +0000" stop="20241031140000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241031140000 +0000" stop="20241031150000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241031150000 +0000" stop="20241031160000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241031160000 +0000" stop="20241031170000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241031170000 +0000" stop="20241031180000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241031180000 +0000" stop="20241031190000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241031190000 +0000" stop="20241031200000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241031200000 +0000" stop="20241031210000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241031210000 +0000" stop="20241031220000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241031220000 +0000" stop="20241031230000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241031230000 +0000" stop="20241031235900 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241101000000 +0000" stop="20241101010000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241101010000 +0000" stop="20241101020000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241101020000 +0000" stop="20241101030000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241101030000 +0000" stop="20241101040000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241101040000 +0000" stop="20241101050000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241101050000 +0000" stop="20241101060000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241101060000 +0000" stop="20241101070000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241101070000 +0000" stop="20241101080000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241101080000 +0000" stop="20241101090000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241101090000 +0000" stop="20241101100000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241101100000 +0000" stop="20241101110000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241101110000 +0000" stop="20241101120000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241101120000 +0000" stop="20241101130000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241101130000 +0000" stop="20241101140000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241101140000 +0000" stop="20241101150000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241101150000 +0000" stop="20241101160000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241101160000 +0000" stop="20241101170000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241101170000 +0000" stop="20241101180000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241101180000 +0000" stop="20241101190000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241101190000 +0000" stop="20241101200000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241101200000 +0000" stop="20241101210000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241101210000 +0000" stop="20241101220000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241101220000 +0000" stop="20241101230000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241101230000 +0000" stop="20241101235900 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241102000000 +0000" stop="20241102010000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241102010000 +0000" stop="20241102020000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241102020000 +0000" stop="20241102030000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241102030000 +0000" stop="20241102040000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241102040000 +0000" stop="20241102050000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241102050000 +0000" stop="20241102060000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241102060000 +0000" stop="20241102070000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241102070000 +0000" stop="20241102080000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241102080000 +0000" stop="20241102090000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241102090000 +0000" stop="20241102100000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241102100000 +0000" stop="20241102110000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241102110000 +0000" stop="20241102120000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241102120000 +0000" stop="20241102130000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241102130000 +0000" stop="20241102140000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241102140000 +0000" stop="20241102150000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241102150000 +0000" stop="20241102160000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241102160000 +0000" stop="20241102170000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241102170000 +0000" stop="20241102180000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241102180000 +0000" stop="20241102190000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241102190000 +0000" stop="20241102200000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241102200000 +0000" stop="20241102210000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241102210000 +0000" stop="20241102220000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241102220000 +0000" stop="20241102230000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
+    </programme>
+    <programme start="20241102230000 +0000" stop="20241102235900 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
     </programme>
     <channel id="MORBIDO.HDTV.(MRBTV).cl">
     <display-name lang="en">MORBIDO HDTV (MRBTV)</display-name>
