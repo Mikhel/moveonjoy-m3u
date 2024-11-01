@@ -3,8 +3,11 @@ import gzip
 import xml.etree.ElementTree as ET
 import requests
 
+save_as_gz = True  # Set to True to save an additional .gz version
+
 tvg_ids_file = os.path.join(os.path.dirname(__file__), 'tvg-ids.txt')
 output_file = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'epg.xml')
+output_file_gz = output_file + '.gz'
 
 def fetch_and_extract_xml(url):
     response = requests.get(url)
@@ -49,9 +52,13 @@ def filter_and_build_epg(urls):
 
     tree = ET.ElementTree(root)
     tree.write(output_file, encoding='utf-8', xml_declaration=True)
-
     print(f"New EPG saved to {output_file}")
 
+    if save_as_gz:
+        with gzip.open(output_file_gz, 'wb') as f:
+            tree.write(f, encoding='utf-8', xml_declaration=True)
+        print(f"New EPG saved to {output_file_gz}")
+        
 urls = [
     'https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz',
     'https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz',
