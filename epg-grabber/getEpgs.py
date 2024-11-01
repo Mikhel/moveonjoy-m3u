@@ -63,3 +63,10 @@ urls = [
 
 if __name__ == "__main__":
     filter_and_build_epg(urls)
+
+def compressing the xml file:
+f_in = open('/EPG-para-m3u/epg.xml')
+f_out = gzip.open('/EPG-para-m3u/epg.xml.gz', 'wb')
+f_out.writelines(f_in)
+f_out.close()
+f_in.close()
