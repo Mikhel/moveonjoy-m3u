@@ -11,102 +11,6 @@
         <display-name lang="en">HULU</display-name>
         <icon src="https://play-lh.googleusercontent.com/4whGAVjZGrrlNxzheKAfBXrxggtyAb4euWLeQI8fDfVfdnFEZjE0DZTJ8DKoh64pqcIa" />
     </channel>
-    <programme start="20241031000000 +0000" stop="20241031010000 +0000" channel="Baseball.Dummy.us">
-        <title lang="en">Baseball</title>
-        <desc lang="en">Baseball</desc>
-    </programme>
-    <programme start="20241031010000 +0000" stop="20241031020000 +0000" channel="Baseball.Dummy.us">
-        <title lang="en">Baseball</title>
-        <desc lang="en">Baseball</desc>
-    </programme>
-    <programme start="20241031020000 +0000" stop="20241031030000 +0000" channel="Baseball.Dummy.us">
-        <title lang="en">Baseball</title>
-        <desc lang="en">Baseball</desc>
-    </programme>
-    <programme start="20241031030000 +0000" stop="20241031040000 +0000" channel="Baseball.Dummy.us">
-        <title lang="en">Baseball</title>
-        <desc lang="en">Baseball</desc>
-    </programme>
-    <programme start="20241031040000 +0000" stop="20241031050000 +0000" channel="Baseball.Dummy.us">
-        <title lang="en">Baseball</title>
-        <desc lang="en">Baseball</desc>
-    </programme>
-    <programme start="20241031050000 +0000" stop="20241031060000 +0000" channel="Baseball.Dummy.us">
-        <title lang="en">Baseball</title>
-        <desc lang="en">Baseball</desc>
-    </programme>
-    <programme start="20241031060000 +0000" stop="20241031070000 +0000" channel="Baseball.Dummy.us">
-        <title lang="en">Baseball</title>
-        <desc lang="en">Baseball</desc>
-    </programme>
-    <programme start="20241031070000 +0000" stop="20241031080000 +0000" channel="Baseball.Dummy.us">
-        <title lang="en">Baseball</title>
-        <desc lang="en">Baseball</desc>
-    </programme>
-    <programme start="20241031080000 +0000" stop="20241031090000 +0000" channel="Baseball.Dummy.us">
-        <title lang="en">Baseball</title>
-        <desc lang="en">Baseball</desc>
-    </programme>
-    <programme start="20241031090000 +0000" stop="20241031100000 +0000" channel="Baseball.Dummy.us">
-        <title lang="en">Baseball</title>
-        <desc lang="en">Baseball</desc>
-    </programme>
-    <programme start="20241031100000 +0000" stop="20241031110000 +0000" channel="Baseball.Dummy.us">
-        <title lang="en">Baseball</title>
-        <desc lang="en">Baseball</desc>
-    </programme>
-    <programme start="20241031110000 +0000" stop="20241031120000 +0000" channel="Baseball.Dummy.us">
-        <title lang="en">Baseball</title>
-        <desc lang="en">Baseball</desc>
-    </programme>
-    <programme start="20241031120000 +0000" stop="20241031130000 +0000" channel="Baseball.Dummy.us">
-        <title lang="en">Baseball</title>
-        <desc lang="en">Baseball</desc>
-    </programme>
-    <programme start="20241031130000 +0000" stop="20241031140000 +0000" channel="Baseball.Dummy.us">
-        <title lang="en">Baseball</title>
-        <desc lang="en">Baseball</desc>
-    </programme>
-    <programme start="20241031140000 +0000" stop="20241031150000 +0000" channel="Baseball.Dummy.us">
-        <title lang="en">Baseball</title>
-        <desc lang="en">Baseball</desc>
-    </programme>
-    <programme start="20241031150000 +0000" stop="20241031160000 +0000" channel="Baseball.Dummy.us">
-        <title lang="en">Baseball</title>
-        <desc lang="en">Baseball</desc>
-    </programme>
-    <programme start="20241031160000 +0000" stop="20241031170000 +0000" channel="Baseball.Dummy.us">
-        <title lang="en">Baseball</title>
-        <desc lang="en">Baseball</desc>
-    </programme>
-    <programme start="20241031170000 +0000" stop="20241031180000 +0000" channel="Baseball.Dummy.us">
-        <title lang="en">Baseball</title>
-        <desc lang="en">Baseball</desc>
-    </programme>
-    <programme start="20241031180000 +0000" stop="20241031190000 +0000" channel="Baseball.Dummy.us">
-        <title lang="en">Baseball</title>
-        <desc lang="en">Baseball</desc>
-    </programme>
-    <programme start="20241031190000 +0000" stop="20241031200000 +0000" channel="Baseball.Dummy.us">
-        <title lang="en">Baseball</title>
-        <desc lang="en">Baseball</desc>
-    </programme>
-    <programme start="20241031200000 +0000" stop="20241031210000 +0000" channel="Baseball.Dummy.us">
-        <title lang="en">Baseball</title>
-        <desc lang="en">Baseball</desc>
-    </programme>
-    <programme start="20241031210000 +0000" stop="20241031220000 +0000" channel="Baseball.Dummy.us">
-        <title lang="en">Baseball</title>
-        <desc lang="en">Baseball</desc>
-    </programme>
-    <programme start="20241031220000 +0000" stop="20241031230000 +0000" channel="Baseball.Dummy.us">
-        <title lang="en">Baseball</title>
-        <desc lang="en">Baseball</desc>
-    </programme>
-    <programme start="20241031230000 +0000" stop="20241031235900 +0000" channel="Baseball.Dummy.us">
-        <title lang="en">Baseball</title>
-        <desc lang="en">Baseball</desc>
-    </programme>
     <programme start="20241101000000 +0000" stop="20241101010000 +0000" channel="Baseball.Dummy.us">
         <title lang="en">Baseball</title>
         <desc lang="en">Baseball</desc>
@@ -395,101 +299,101 @@
         <title lang="en">Baseball</title>
         <desc lang="en">Baseball</desc>
     </programme>
-    <programme start="20241031000000 +0000" stop="20241031010000 +0000" channel="Cinebox.Dummy.us">
-        <title lang="en">Cinebox</title>
-        <desc lang="en">Cinebox</desc>
+    <programme start="20241104000000 +0000" stop="20241104010000 +0000" channel="Baseball.Dummy.us">
+        <title lang="en">Baseball</title>
+        <desc lang="en">Baseball</desc>
     </programme>
-    <programme start="20241031010000 +0000" stop="20241031020000 +0000" channel="Cinebox.Dummy.us">
-        <title lang="en">Cinebox</title>
-        <desc lang="en">Cinebox</desc>
+    <programme start="20241104010000 +0000" stop="20241104020000 +0000" channel="Baseball.Dummy.us">
+        <title lang="en">Baseball</title>
+        <desc lang="en">Baseball</desc>
     </programme>
-    <programme start="20241031020000 +0000" stop="20241031030000 +0000" channel="Cinebox.Dummy.us">
-        <title lang="en">Cinebox</title>
-        <desc lang="en">Cinebox</desc>
+    <programme start="20241104020000 +0000" stop="20241104030000 +0000" channel="Baseball.Dummy.us">
+        <title lang="en">Baseball</title>
+        <desc lang="en">Baseball</desc>
     </programme>
-    <programme start="20241031030000 +0000" stop="20241031040000 +0000" channel="Cinebox.Dummy.us">
-        <title lang="en">Cinebox</title>
-        <desc lang="en">Cinebox</desc>
+    <programme start="20241104030000 +0000" stop="20241104040000 +0000" channel="Baseball.Dummy.us">
+        <title lang="en">Baseball</title>
+        <desc lang="en">Baseball</desc>
     </programme>
-    <programme start="20241031040000 +0000" stop="20241031050000 +0000" channel="Cinebox.Dummy.us">
-        <title lang="en">Cinebox</title>
-        <desc lang="en">Cinebox</desc>
+    <programme start="20241104040000 +0000" stop="20241104050000 +0000" channel="Baseball.Dummy.us">
+        <title lang="en">Baseball</title>
+        <desc lang="en">Baseball</desc>
     </programme>
-    <programme start="20241031050000 +0000" stop="20241031060000 +0000" channel="Cinebox.Dummy.us">
-        <title lang="en">Cinebox</title>
-        <desc lang="en">Cinebox</desc>
+    <programme start="20241104050000 +0000" stop="20241104060000 +0000" channel="Baseball.Dummy.us">
+        <title lang="en">Baseball</title>
+        <desc lang="en">Baseball</desc>
     </programme>
-    <programme start="20241031060000 +0000" stop="20241031070000 +0000" channel="Cinebox.Dummy.us">
-        <title lang="en">Cinebox</title>
-        <desc lang="en">Cinebox</desc>
+    <programme start="20241104060000 +0000" stop="20241104070000 +0000" channel="Baseball.Dummy.us">
+        <title lang="en">Baseball</title>
+        <desc lang="en">Baseball</desc>
     </programme>
-    <programme start="20241031070000 +0000" stop="20241031080000 +0000" channel="Cinebox.Dummy.us">
-        <title lang="en">Cinebox</title>
-        <desc lang="en">Cinebox</desc>
+    <programme start="20241104070000 +0000" stop="20241104080000 +0000" channel="Baseball.Dummy.us">
+        <title lang="en">Baseball</title>
+        <desc lang="en">Baseball</desc>
     </programme>
-    <programme start="20241031080000 +0000" stop="20241031090000 +0000" channel="Cinebox.Dummy.us">
-        <title lang="en">Cinebox</title>
-        <desc lang="en">Cinebox</desc>
+    <programme start="20241104080000 +0000" stop="20241104090000 +0000" channel="Baseball.Dummy.us">
+        <title lang="en">Baseball</title>
+        <desc lang="en">Baseball</desc>
     </programme>
-    <programme start="20241031090000 +0000" stop="20241031100000 +0000" channel="Cinebox.Dummy.us">
-        <title lang="en">Cinebox</title>
-        <desc lang="en">Cinebox</desc>
+    <programme start="20241104090000 +0000" stop="20241104100000 +0000" channel="Baseball.Dummy.us">
+        <title lang="en">Baseball</title>
+        <desc lang="en">Baseball</desc>
     </programme>
-    <programme start="20241031100000 +0000" stop="20241031110000 +0000" channel="Cinebox.Dummy.us">
-        <title lang="en">Cinebox</title>
-        <desc lang="en">Cinebox</desc>
+    <programme start="20241104100000 +0000" stop="20241104110000 +0000" channel="Baseball.Dummy.us">
+        <title lang="en">Baseball</title>
+        <desc lang="en">Baseball</desc>
     </programme>
-    <programme start="20241031110000 +0000" stop="20241031120000 +0000" channel="Cinebox.Dummy.us">
-        <title lang="en">Cinebox</title>
-        <desc lang="en">Cinebox</desc>
+    <programme start="20241104110000 +0000" stop="20241104120000 +0000" channel="Baseball.Dummy.us">
+        <title lang="en">Baseball</title>
+        <desc lang="en">Baseball</desc>
     </programme>
-    <programme start="20241031120000 +0000" stop="20241031130000 +0000" channel="Cinebox.Dummy.us">
-        <title lang="en">Cinebox</title>
-        <desc lang="en">Cinebox</desc>
+    <programme start="20241104120000 +0000" stop="20241104130000 +0000" channel="Baseball.Dummy.us">
+        <title lang="en">Baseball</title>
+        <desc lang="en">Baseball</desc>
     </programme>
-    <programme start="20241031130000 +0000" stop="20241031140000 +0000" channel="Cinebox.Dummy.us">
-        <title lang="en">Cinebox</title>
-        <desc lang="en">Cinebox</desc>
+    <programme start="20241104130000 +0000" stop="20241104140000 +0000" channel="Baseball.Dummy.us">
+        <title lang="en">Baseball</title>
+        <desc lang="en">Baseball</desc>
     </programme>
-    <programme start="20241031140000 +0000" stop="20241031150000 +0000" channel="Cinebox.Dummy.us">
-        <title lang="en">Cinebox</title>
-        <desc lang="en">Cinebox</desc>
+    <programme start="20241104140000 +0000" stop="20241104150000 +0000" channel="Baseball.Dummy.us">
+        <title lang="en">Baseball</title>
+        <desc lang="en">Baseball</desc>
     </programme>
-    <programme start="20241031150000 +0000" stop="20241031160000 +0000" channel="Cinebox.Dummy.us">
-        <title lang="en">Cinebox</title>
-        <desc lang="en">Cinebox</desc>
+    <programme start="20241104150000 +0000" stop="20241104160000 +0000" channel="Baseball.Dummy.us">
+        <title lang="en">Baseball</title>
+        <desc lang="en">Baseball</desc>
     </programme>
-    <programme start="20241031160000 +0000" stop="20241031170000 +0000" channel="Cinebox.Dummy.us">
-        <title lang="en">Cinebox</title>
-        <desc lang="en">Cinebox</desc>
+    <programme start="20241104160000 +0000" stop="20241104170000 +0000" channel="Baseball.Dummy.us">
+        <title lang="en">Baseball</title>
+        <desc lang="en">Baseball</desc>
     </programme>
-    <programme start="20241031170000 +0000" stop="20241031180000 +0000" channel="Cinebox.Dummy.us">
-        <title lang="en">Cinebox</title>
-        <desc lang="en">Cinebox</desc>
+    <programme start="20241104170000 +0000" stop="20241104180000 +0000" channel="Baseball.Dummy.us">
+        <title lang="en">Baseball</title>
+        <desc lang="en">Baseball</desc>
     </programme>
-    <programme start="20241031180000 +0000" stop="20241031190000 +0000" channel="Cinebox.Dummy.us">
-        <title lang="en">Cinebox</title>
-        <desc lang="en">Cinebox</desc>
+    <programme start="20241104180000 +0000" stop="20241104190000 +0000" channel="Baseball.Dummy.us">
+        <title lang="en">Baseball</title>
+        <desc lang="en">Baseball</desc>
     </programme>
-    <programme start="20241031190000 +0000" stop="20241031200000 +0000" channel="Cinebox.Dummy.us">
-        <title lang="en">Cinebox</title>
-        <desc lang="en">Cinebox</desc>
+    <programme start="20241104190000 +0000" stop="20241104200000 +0000" channel="Baseball.Dummy.us">
+        <title lang="en">Baseball</title>
+        <desc lang="en">Baseball</desc>
     </programme>
-    <programme start="20241031200000 +0000" stop="20241031210000 +0000" channel="Cinebox.Dummy.us">
-        <title lang="en">Cinebox</title>
-        <desc lang="en">Cinebox</desc>
+    <programme start="20241104200000 +0000" stop="20241104210000 +0000" channel="Baseball.Dummy.us">
+        <title lang="en">Baseball</title>
+        <desc lang="en">Baseball</desc>
     </programme>
-    <programme start="20241031210000 +0000" stop="20241031220000 +0000" channel="Cinebox.Dummy.us">
-        <title lang="en">Cinebox</title>
-        <desc lang="en">Cinebox</desc>
+    <programme start="20241104210000 +0000" stop="20241104220000 +0000" channel="Baseball.Dummy.us">
+        <title lang="en">Baseball</title>
+        <desc lang="en">Baseball</desc>
     </programme>
-    <programme start="20241031220000 +0000" stop="20241031230000 +0000" channel="Cinebox.Dummy.us">
-        <title lang="en">Cinebox</title>
-        <desc lang="en">Cinebox</desc>
+    <programme start="20241104220000 +0000" stop="20241104230000 +0000" channel="Baseball.Dummy.us">
+        <title lang="en">Baseball</title>
+        <desc lang="en">Baseball</desc>
     </programme>
-    <programme start="20241031230000 +0000" stop="20241031235900 +0000" channel="Cinebox.Dummy.us">
-        <title lang="en">Cinebox</title>
-        <desc lang="en">Cinebox</desc>
+    <programme start="20241104230000 +0000" stop="20241104235900 +0000" channel="Baseball.Dummy.us">
+        <title lang="en">Baseball</title>
+        <desc lang="en">Baseball</desc>
     </programme>
     <programme start="20241101000000 +0000" stop="20241101010000 +0000" channel="Cinebox.Dummy.us">
         <title lang="en">Cinebox</title>
@@ -779,101 +683,101 @@
         <title lang="en">Cinebox</title>
         <desc lang="en">Cinebox</desc>
     </programme>
-    <programme start="20241031000000 +0000" stop="20241031010000 +0000" channel="HULU.us">
-        <title lang="en">HULU</title>
-        <desc lang="en">HULU</desc>
+    <programme start="20241104000000 +0000" stop="20241104010000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
     </programme>
-    <programme start="20241031010000 +0000" stop="20241031020000 +0000" channel="HULU.us">
-        <title lang="en">HULU</title>
-        <desc lang="en">HULU</desc>
+    <programme start="20241104010000 +0000" stop="20241104020000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
     </programme>
-    <programme start="20241031020000 +0000" stop="20241031030000 +0000" channel="HULU.us">
-        <title lang="en">HULU</title>
-        <desc lang="en">HULU</desc>
+    <programme start="20241104020000 +0000" stop="20241104030000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
     </programme>
-    <programme start="20241031030000 +0000" stop="20241031040000 +0000" channel="HULU.us">
-        <title lang="en">HULU</title>
-        <desc lang="en">HULU</desc>
+    <programme start="20241104030000 +0000" stop="20241104040000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
     </programme>
-    <programme start="20241031040000 +0000" stop="20241031050000 +0000" channel="HULU.us">
-        <title lang="en">HULU</title>
-        <desc lang="en">HULU</desc>
+    <programme start="20241104040000 +0000" stop="20241104050000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
     </programme>
-    <programme start="20241031050000 +0000" stop="20241031060000 +0000" channel="HULU.us">
-        <title lang="en">HULU</title>
-        <desc lang="en">HULU</desc>
+    <programme start="20241104050000 +0000" stop="20241104060000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
     </programme>
-    <programme start="20241031060000 +0000" stop="20241031070000 +0000" channel="HULU.us">
-        <title lang="en">HULU</title>
-        <desc lang="en">HULU</desc>
+    <programme start="20241104060000 +0000" stop="20241104070000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
     </programme>
-    <programme start="20241031070000 +0000" stop="20241031080000 +0000" channel="HULU.us">
-        <title lang="en">HULU</title>
-        <desc lang="en">HULU</desc>
+    <programme start="20241104070000 +0000" stop="20241104080000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
     </programme>
-    <programme start="20241031080000 +0000" stop="20241031090000 +0000" channel="HULU.us">
-        <title lang="en">HULU</title>
-        <desc lang="en">HULU</desc>
+    <programme start="20241104080000 +0000" stop="20241104090000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
     </programme>
-    <programme start="20241031090000 +0000" stop="20241031100000 +0000" channel="HULU.us">
-        <title lang="en">HULU</title>
-        <desc lang="en">HULU</desc>
+    <programme start="20241104090000 +0000" stop="20241104100000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
     </programme>
-    <programme start="20241031100000 +0000" stop="20241031110000 +0000" channel="HULU.us">
-        <title lang="en">HULU</title>
-        <desc lang="en">HULU</desc>
+    <programme start="20241104100000 +0000" stop="20241104110000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
     </programme>
-    <programme start="20241031110000 +0000" stop="20241031120000 +0000" channel="HULU.us">
-        <title lang="en">HULU</title>
-        <desc lang="en">HULU</desc>
+    <programme start="20241104110000 +0000" stop="20241104120000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
     </programme>
-    <programme start="20241031120000 +0000" stop="20241031130000 +0000" channel="HULU.us">
-        <title lang="en">HULU</title>
-        <desc lang="en">HULU</desc>
+    <programme start="20241104120000 +0000" stop="20241104130000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
     </programme>
-    <programme start="20241031130000 +0000" stop="20241031140000 +0000" channel="HULU.us">
-        <title lang="en">HULU</title>
-        <desc lang="en">HULU</desc>
+    <programme start="20241104130000 +0000" stop="20241104140000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
     </programme>
-    <programme start="20241031140000 +0000" stop="20241031150000 +0000" channel="HULU.us">
-        <title lang="en">HULU</title>
-        <desc lang="en">HULU</desc>
+    <programme start="20241104140000 +0000" stop="20241104150000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
     </programme>
-    <programme start="20241031150000 +0000" stop="20241031160000 +0000" channel="HULU.us">
-        <title lang="en">HULU</title>
-        <desc lang="en">HULU</desc>
+    <programme start="20241104150000 +0000" stop="20241104160000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
     </programme>
-    <programme start="20241031160000 +0000" stop="20241031170000 +0000" channel="HULU.us">
-        <title lang="en">HULU</title>
-        <desc lang="en">HULU</desc>
+    <programme start="20241104160000 +0000" stop="20241104170000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
     </programme>
-    <programme start="20241031170000 +0000" stop="20241031180000 +0000" channel="HULU.us">
-        <title lang="en">HULU</title>
-        <desc lang="en">HULU</desc>
+    <programme start="20241104170000 +0000" stop="20241104180000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
     </programme>
-    <programme start="20241031180000 +0000" stop="20241031190000 +0000" channel="HULU.us">
-        <title lang="en">HULU</title>
-        <desc lang="en">HULU</desc>
+    <programme start="20241104180000 +0000" stop="20241104190000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
     </programme>
-    <programme start="20241031190000 +0000" stop="20241031200000 +0000" channel="HULU.us">
-        <title lang="en">HULU</title>
-        <desc lang="en">HULU</desc>
+    <programme start="20241104190000 +0000" stop="20241104200000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
     </programme>
-    <programme start="20241031200000 +0000" stop="20241031210000 +0000" channel="HULU.us">
-        <title lang="en">HULU</title>
-        <desc lang="en">HULU</desc>
+    <programme start="20241104200000 +0000" stop="20241104210000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
     </programme>
-    <programme start="20241031210000 +0000" stop="20241031220000 +0000" channel="HULU.us">
-        <title lang="en">HULU</title>
-        <desc lang="en">HULU</desc>
+    <programme start="20241104210000 +0000" stop="20241104220000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
     </programme>
-    <programme start="20241031220000 +0000" stop="20241031230000 +0000" channel="HULU.us">
-        <title lang="en">HULU</title>
-        <desc lang="en">HULU</desc>
+    <programme start="20241104220000 +0000" stop="20241104230000 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
     </programme>
-    <programme start="20241031230000 +0000" stop="20241031235900 +0000" channel="HULU.us">
-        <title lang="en">HULU</title>
-        <desc lang="en">HULU</desc>
+    <programme start="20241104230000 +0000" stop="20241104235900 +0000" channel="Cinebox.Dummy.us">
+        <title lang="en">Cinebox</title>
+        <desc lang="en">Cinebox</desc>
     </programme>
     <programme start="20241101000000 +0000" stop="20241101010000 +0000" channel="HULU.us">
         <title lang="en">HULU</title>
@@ -1163,9 +1067,109 @@
         <title lang="en">HULU</title>
         <desc lang="en">HULU</desc>
     </programme>
+    <programme start="20241104000000 +0000" stop="20241104010000 +0000" channel="HULU.us">
+        <title lang="en">HULU</title>
+        <desc lang="en">HULU</desc>
+    </programme>
+    <programme start="20241104010000 +0000" stop="20241104020000 +0000" channel="HULU.us">
+        <title lang="en">HULU</title>
+        <desc lang="en">HULU</desc>
+    </programme>
+    <programme start="20241104020000 +0000" stop="20241104030000 +0000" channel="HULU.us">
+        <title lang="en">HULU</title>
+        <desc lang="en">HULU</desc>
+    </programme>
+    <programme start="20241104030000 +0000" stop="20241104040000 +0000" channel="HULU.us">
+        <title lang="en">HULU</title>
+        <desc lang="en">HULU</desc>
+    </programme>
+    <programme start="20241104040000 +0000" stop="20241104050000 +0000" channel="HULU.us">
+        <title lang="en">HULU</title>
+        <desc lang="en">HULU</desc>
+    </programme>
+    <programme start="20241104050000 +0000" stop="20241104060000 +0000" channel="HULU.us">
+        <title lang="en">HULU</title>
+        <desc lang="en">HULU</desc>
+    </programme>
+    <programme start="20241104060000 +0000" stop="20241104070000 +0000" channel="HULU.us">
+        <title lang="en">HULU</title>
+        <desc lang="en">HULU</desc>
+    </programme>
+    <programme start="20241104070000 +0000" stop="20241104080000 +0000" channel="HULU.us">
+        <title lang="en">HULU</title>
+        <desc lang="en">HULU</desc>
+    </programme>
+    <programme start="20241104080000 +0000" stop="20241104090000 +0000" channel="HULU.us">
+        <title lang="en">HULU</title>
+        <desc lang="en">HULU</desc>
+    </programme>
+    <programme start="20241104090000 +0000" stop="20241104100000 +0000" channel="HULU.us">
+        <title lang="en">HULU</title>
+        <desc lang="en">HULU</desc>
+    </programme>
+    <programme start="20241104100000 +0000" stop="20241104110000 +0000" channel="HULU.us">
+        <title lang="en">HULU</title>
+        <desc lang="en">HULU</desc>
+    </programme>
+    <programme start="20241104110000 +0000" stop="20241104120000 +0000" channel="HULU.us">
+        <title lang="en">HULU</title>
+        <desc lang="en">HULU</desc>
+    </programme>
+    <programme start="20241104120000 +0000" stop="20241104130000 +0000" channel="HULU.us">
+        <title lang="en">HULU</title>
+        <desc lang="en">HULU</desc>
+    </programme>
+    <programme start="20241104130000 +0000" stop="20241104140000 +0000" channel="HULU.us">
+        <title lang="en">HULU</title>
+        <desc lang="en">HULU</desc>
+    </programme>
+    <programme start="20241104140000 +0000" stop="20241104150000 +0000" channel="HULU.us">
+        <title lang="en">HULU</title>
+        <desc lang="en">HULU</desc>
+    </programme>
+    <programme start="20241104150000 +0000" stop="20241104160000 +0000" channel="HULU.us">
+        <title lang="en">HULU</title>
+        <desc lang="en">HULU</desc>
+    </programme>
+    <programme start="20241104160000 +0000" stop="20241104170000 +0000" channel="HULU.us">
+        <title lang="en">HULU</title>
+        <desc lang="en">HULU</desc>
+    </programme>
+    <programme start="20241104170000 +0000" stop="20241104180000 +0000" channel="HULU.us">
+        <title lang="en">HULU</title>
+        <desc lang="en">HULU</desc>
+    </programme>
+    <programme start="20241104180000 +0000" stop="20241104190000 +0000" channel="HULU.us">
+        <title lang="en">HULU</title>
+        <desc lang="en">HULU</desc>
+    </programme>
+    <programme start="20241104190000 +0000" stop="20241104200000 +0000" channel="HULU.us">
+        <title lang="en">HULU</title>
+        <desc lang="en">HULU</desc>
+    </programme>
+    <programme start="20241104200000 +0000" stop="20241104210000 +0000" channel="HULU.us">
+        <title lang="en">HULU</title>
+        <desc lang="en">HULU</desc>
+    </programme>
+    <programme start="20241104210000 +0000" stop="20241104220000 +0000" channel="HULU.us">
+        <title lang="en">HULU</title>
+        <desc lang="en">HULU</desc>
+    </programme>
+    <programme start="20241104220000 +0000" stop="20241104230000 +0000" channel="HULU.us">
+        <title lang="en">HULU</title>
+        <desc lang="en">HULU</desc>
+    </programme>
+    <programme start="20241104230000 +0000" stop="20241104235900 +0000" channel="HULU.us">
+        <title lang="en">HULU</title>
+        <desc lang="en">HULU</desc>
+    </programme>
     <channel id="Yankees.Television.HDTV.(YESHD).us">
     <url>http://www.tvguide.com</url>
     <display-name lang="en">Yankees Television HDTV (YESHD)</display-name>
+  </channel>
+  <channel id="A.and.E.Network.HDTV.(A.and.EHD).us">
+    <url>http://www.tvguide.com</url>
+    <display-name lang="en">A and E Network HDTV (A and EHD)</display-name>
   </channel>
   <channel id="YES.Alternate.HDTV.DirecTV.(YESHDA).us">
     <url>http://www.tvguide.com</url>
@@ -1177,78 +1181,6 @@
     <url>http://www.tvpassport.com</url>
     <display-name lang="en">5StarMAX.HD</display-name>
   </channel>
-  <channel id="A.and.E.Network.HDTV.(A.and.EHD).us">
-    <url>http://www.tvguide.com</url>
-    <display-name lang="en">A and E Network HDTV (A and EHD)</display-name>
-  </channel>
-  <programme channel="Yankees.Television.HDTV.(YESHD).us" start="20241031023000 +0000" stop="20241031030000 +0000">
-    <title lang="en">Nets Postgame</title>
-    <desc lang="en">Highlights, interviews and analysis following Brooklyn Nets action. (Live).</desc>
-    <premiere lang="en" />
-  </programme>
-  <programme channel="Yankees.Television.HDTV.(YESHD).us" start="20241031030000 +0000" stop="20241031033000 +0000">
-    <title lang="en">Brooklyn Nets Magazine</title>
-    <sub-title lang="en">Vince Carter Special</sub-title>
-    <desc lang="en">Get an inside look at the Brooklyn Nets with player interviews, game highlights, and behind-the-scenes coverage. Dive into the team's journey on and off the court.</desc>
-  </programme>
-  <programme channel="Yankees.Television.HDTV.(YESHD).us" start="20241031033000 +0000" stop="20241031040000 +0000">
-    <title lang="en">Brooklyn Nets Magazine</title>
-    <sub-title lang="en">Richard Jefferson Special</sub-title>
-    <desc lang="en">Get an inside look at the Brooklyn Nets with exclusive interviews, behind-the-scenes access, and game highlights. Discover the stories that define the team.</desc>
-  </programme>
-  <programme channel="Yankees.Television.HDTV.(YESHD).us" start="20241031040000 +0000" stop="20241031070000 +0000">
-    <title lang="en">NBA Basketball</title>
-    <sub-title lang="en">Brooklyn Nets at Memphis Grizzlies</sub-title>
-    <desc lang="en">Brooklyn Nets at Memphis Grizzlies. From FedExForum.</desc>
-    <date>2024</date>
-    <category lang="en">Pro Sports</category>
-  </programme>
-  <programme channel="Yankees.Television.HDTV.(YESHD).us" start="20241031070000 +0000" stop="20241031100000 +0000">
-    <title lang="en">NBA Basketball</title>
-    <sub-title lang="en">Brooklyn Nets at Memphis Grizzlies</sub-title>
-    <desc lang="en">Brooklyn Nets at Memphis Grizzlies. From FedExForum.</desc>
-    <date>2024</date>
-    <category lang="en">Pro Sports</category>
-  </programme>
-  <programme channel="Yankees.Television.HDTV.(YESHD).us" start="20241031100000 +0000" stop="20241031130000 +0000">
-    <title lang="en">NBA Basketball</title>
-    <sub-title lang="en">Brooklyn Nets at Memphis Grizzlies</sub-title>
-    <desc lang="en">Brooklyn Nets at Memphis Grizzlies. From FedExForum.</desc>
-    <date>2024</date>
-    <category lang="en">Pro Sports</category>
-  </programme>
-  <programme channel="Yankees.Television.HDTV.(YESHD).us" start="20241031130000 +0000" stop="20241031160000 +0000">
-    <title lang="en">NBA Basketball</title>
-    <sub-title lang="en">Brooklyn Nets at Memphis Grizzlies</sub-title>
-    <desc lang="en">Brooklyn Nets at Memphis Grizzlies. From FedExForum.</desc>
-    <date>2024</date>
-    <category lang="en">Pro Sports</category>
-  </programme>
-  <programme channel="Yankees.Television.HDTV.(YESHD).us" start="20241031160000 +0000" stop="20241031190000 +0000">
-    <title lang="en">NBA Basketball</title>
-    <sub-title lang="en">Brooklyn Nets at Memphis Grizzlies</sub-title>
-    <desc lang="en">Brooklyn Nets at Memphis Grizzlies. From FedExForum.</desc>
-    <date>2024</date>
-    <category lang="en">Pro Sports</category>
-  </programme>
-  <programme channel="Yankees.Television.HDTV.(YESHD).us" start="20241031190000 +0000" stop="20241031223000 +0000">
-    <title lang="en">The Michael Kay Show</title>
-    <desc lang="en">Simulcast of the afternoon ESPN New York sports-talk show, featuring interviews and call-ins. (Live).</desc>
-    <category lang="en">Talk &amp; Interview</category>
-    <category lang="en">Sports</category>
-    <premiere lang="en" />
-  </programme>
-  <programme channel="Yankees.Television.HDTV.(YESHD).us" start="20241031223000 +0000" stop="20241031230000 +0000">
-    <title lang="en">18 Holes With Jimmy Hanlin</title>
-    <sub-title lang="en">Tot Hill Farms</sub-title>
-    <desc lang="en">A golf pro explores top courses, shares tips, and interviews sports personalities. Each episode offers stunning views and expert insights, making it a must-watch for golf fans.</desc>
-    <date>2024</date>
-  </programme>
-  <programme channel="Yankees.Television.HDTV.(YESHD).us" start="20241031230000 +0000" stop="20241101020000 +0000">
-    <title lang="en">AC Milan Magazine</title>
-    <desc lang="en">AC Milan soccer highlights, features an in-depth discussion. (New).</desc>
-    <premiere lang="en" />
-  </programme>
   <programme channel="Yankees.Television.HDTV.(YESHD).us" start="20241101020000 +0000" stop="20241101050000 +0000">
     <title lang="en">Premier League Soccer</title>
     <sub-title lang="en">Manchester City vs. Southampton</sub-title>
@@ -1722,804 +1654,170 @@
     <title lang="en">Yankees Magazine</title>
     <desc lang="en">Updates and features on the franchise, focusing on game highlights, news and player profiles. Also: player acquisition and instruction during the winter.</desc>
   </programme>
-  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241030063400 +0000" stop="20241030070500 +0000">
-    <title lang="en">Neighborhood Wars</title>
-    <sub-title lang="en">My Way or the Driveway</sub-title>
-    <desc lang="en">In Romana, California, a glossy car photoshoot is disrupted by the protests of a driver in an SUV who claims the crew is shooting on his driveway. A homeowner returns from work to find his house trashed and a neighbor asleep in the bedroom. A New York City bicyclist pursues a runaway dog through the neighborhoods of Upper Manhattan. (Repeat).</desc>
-    <date>2023</date>
-    <category lang="en">Reality</category>
-    <episode-num system="onscreen">S4 E14</episode-num>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241030070500 +0000" stop="20241030073400 +0000">
-    <title lang="en">Neighborhood Wars</title>
-    <sub-title lang="en">Get Off the Sidewalk</sub-title>
-    <desc lang="en">A neighbor pushes a kid for riding his bike on the sidewalk in Santa Ana, California. A woman's dream of a secluded life in rural Kentucky turns sour. (Repeat).</desc>
-    <date>2023</date>
-    <category lang="en">Reality</category>
-    <episode-num system="onscreen">S4 E1</episode-num>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241030073400 +0000" stop="20241030080200 +0000">
-    <title lang="en">Neighborhood Wars</title>
-    <sub-title lang="en">Party Animal</sub-title>
-    <desc lang="en">A fight between neighbors turns shocking when one of the men gets behind the wheel of his SUV. (Repeat).</desc>
-    <date>2023</date>
-    <category lang="en">Reality</category>
-    <episode-num system="onscreen">S4 E11</episode-num>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241030080200 +0000" stop="20241030083200 +0000">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid Programming. (Repeat).</desc>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241030083200 +0000" stop="20241030090200 +0000">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid Programming. (Repeat).</desc>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241030090200 +0000" stop="20241030093100 +0000">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid Programming. (Repeat).</desc>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241030093100 +0000" stop="20241030100000 +0000">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid Programming. (Repeat).</desc>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241030100000 +0000" stop="20241030103000 +0000">
-    <title lang="en">Learn More About Medicare Advantage Plans from Humana</title>
-    <desc lang="en">Are you making the most of your Medicare coverage? In this program you will learn about the variety of Humana Medicare plans designed to fit your needs, your lifestyle, and your budget.</desc>
-    <date>2024</date>
-  </programme>
-  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241030103000 +0000" stop="20241030110000 +0000">
-    <title lang="en">Joni Table Talk</title>
-    <desc lang="en">A talk show featuring guests, lifestyle segments and controversial topics. (Repeat).</desc>
-    <credits>
-      <presenter>Joni Lamb</presenter>
-    </credits>
-    <category lang="en">Family</category>
+  <programme channel="Yankees.Television.HDTV.(YESHD).us" start="20241104000000 +0000" stop="20241104003000 +0000">
+    <title lang="en">The Michael Kay Show</title>
+    <desc lang="en">Simulcast of the afternoon ESPN New York sports-talk show, featuring interviews and call-ins.</desc>
     <category lang="en">Talk &amp; Interview</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
+    <category lang="en">Sports</category>
   </programme>
-  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241030110000 +0000" stop="20241030113000 +0000">
-    <title lang="en">Storage Wars Texas</title>
-    <sub-title lang="en">British Invasion</sub-title>
-    <desc lang="en">The buyers look for antiques in DeSoto. (Repeat).</desc>
-    <credits>
-      <composer>Andy Kubiszewski</composer>
-      <director>Matthew Bennett</director>
-      <director>Tom McMahon</director>
-      <producer>Steve Robillard</producer>
-    </credits>
-    <date>2013</date>
-    <category lang="en">Reality</category>
-    <icon src="https://content.internetvideoarchive.com/content/photos/8123/482836_003.jpg" />
-    <episode-num system="onscreen">S3 E3</episode-num>
-    <previously-shown />  <rating system="MPAA">
+  <programme channel="Yankees.Television.HDTV.(YESHD).us" start="20241104003000 +0000" stop="20241104010000 +0000">
+    <title lang="en">Forbes SportsMoney</title>
+    <desc lang="en">A look at the business side of sports, from player and team finances to endorsements and TV deals.</desc>
+    <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241030113000 +0000" stop="20241030120000 +0000">
-    <title lang="en">Storage Wars Texas</title>
-    <sub-title lang="en">A Jenny for Your Thoughts</sub-title>
-    <desc lang="en">Mary seeks a second opinion on a find that Moe believes to be worthless. (Repeat).</desc>
+  <programme channel="Yankees.Television.HDTV.(YESHD).us" start="20241104010000 +0000" stop="20241104020000 +0000">
+    <title lang="en">CenterStage</title>
+    <desc lang="en">In-depth interviews with personalities from sports and the entertainment scene.</desc>
     <credits>
-      <composer>Andy Kubiszewski</composer>
-      <director>Matthew Bennett</director>
-      <director>Tom McMahon</director>
-      <producer>Steve Robillard</producer>
+      <presenter>Michael Kay</presenter>
     </credits>
-    <date>2012</date>
-    <category lang="en">Reality</category>
-    <icon src="https://content.internetvideoarchive.com/content/photos/8123/482836_003.jpg" />
-    <episode-num system="onscreen">S2 E13</episode-num>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
+    <category lang="en">Talk &amp; Interview</category>
+    <category lang="en">Sports</category>
   </programme>
-  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241030120000 +0000" stop="20241030123000 +0000">
-    <title lang="en">Storage Wars</title>
-    <sub-title lang="en">A Civil Accordion</sub-title>
-    <desc lang="en">A visit to Industry, Cal. (Repeat).</desc>
-    <credits>
-      <composer>Dieter Hartmann</composer>
-      <director>Matthew Bennett</director>
-      <producer>Dolph Scott</producer>
-      <writer>Eric Lyons</writer>
-    </credits>
-    <date>2012</date>
-    <category lang="en">Reality</category>
-    <category lang="en">Variety Shows</category>
-    <category lang="en">Business</category>
-    <icon src="https://content.internetvideoarchive.com/content/photos/13310/559053_320x240_637527260347737373.jpg" />
-    <episode-num system="onscreen">S3 E5</episode-num>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="Metacritic">
-      <value>5.7/10</value>
-    </star-rating>
+  <programme channel="Yankees.Television.HDTV.(YESHD).us" start="20241104020000 +0000" stop="20241104030000 +0000">
+    <title lang="en">Yankeeography</title>
+    <desc lang="en">A biographical series examining great Yankees players, from the legends to contemporary heroes.</desc>
+    <date>2002</date>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
   </programme>
-  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241030123000 +0000" stop="20241030130000 +0000">
-    <title lang="en">Storage Wars</title>
-    <sub-title lang="en">Jurassic Bark</sub-title>
-    <desc lang="en">A trip to Mission Hills, Cal. (Repeat).</desc>
-    <credits>
-      <composer>Dieter Hartmann</composer>
-      <director>Matthew Bennett</director>
-      <producer>Dolph Scott</producer>
-      <writer>Eric Lyons</writer>
-    </credits>
-    <date>2012</date>
-    <category lang="en">Reality</category>
-    <category lang="en">Variety Shows</category>
-    <category lang="en">Business</category>
-    <icon src="https://content.internetvideoarchive.com/content/photos/13310/559053_320x240_637527260347737373.jpg" />
-    <episode-num system="onscreen">S3 E23</episode-num>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="Metacritic">
-      <value>5.7/10</value>
-    </star-rating>
+  <programme channel="Yankees.Television.HDTV.(YESHD).us" start="20241104030000 +0000" stop="20241104033000 +0000">
+    <title lang="en">Joe Girardi Show</title>
+    <desc lang="en">New York Yankees highlights and discussion with the manager.</desc>
   </programme>
-  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241030130000 +0000" stop="20241030133000 +0000">
-    <title lang="en">Storage Wars</title>
-    <sub-title lang="en">Don't Bid So Close To Me</sub-title>
-    <desc lang="en">Rancho Cucamonga, Cal., is visited. Included: a vintage mask. (Repeat).</desc>
-    <credits>
-      <composer>Dieter Hartmann</composer>
-      <director>Matthew Bennett</director>
-      <producer>Dolph Scott</producer>
-      <writer>Eric Lyons</writer>
-    </credits>
-    <date>2012</date>
-    <category lang="en">Reality</category>
-    <category lang="en">Variety Shows</category>
-    <category lang="en">Business</category>
-    <icon src="https://content.internetvideoarchive.com/content/photos/13310/559053_320x240_637527260347737373.jpg" />
-    <episode-num system="onscreen">S2 E27</episode-num>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="Metacritic">
-      <value>5.7/10</value>
-    </star-rating>
+  <programme channel="Yankees.Television.HDTV.(YESHD).us" start="20241104033000 +0000" stop="20241104040000 +0000">
+    <title lang="en">Joe Girardi Show</title>
+    <desc lang="en">New York Yankees highlights and discussion with the manager.</desc>
   </programme>
-  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241030133000 +0000" stop="20241030140000 +0000">
-    <title lang="en">Storage Wars</title>
-    <sub-title lang="en">Fu Dog Day Afternoon</sub-title>
-    <desc lang="en">A trip to Laguna Hills, Cal., to explore a retirement community. Included: Dave finds a furniture unit; and Darrell finds '70s sound equipment. (Repeat).</desc>
-    <credits>
-      <composer>Dieter Hartmann</composer>
-      <director>Matthew Bennett</director>
-      <producer>Dolph Scott</producer>
-      <writer>Eric Lyons</writer>
-    </credits>
-    <date>2011</date>
-    <category lang="en">Reality</category>
-    <category lang="en">Variety Shows</category>
-    <category lang="en">Business</category>
-    <icon src="https://content.internetvideoarchive.com/content/photos/13310/559053_320x240_637527260347737373.jpg" />
-    <episode-num system="onscreen">S2 E14</episode-num>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="Metacritic">
-      <value>5.7/10</value>
-    </star-rating>
+  <programme channel="Yankees.Television.HDTV.(YESHD).us" start="20241104040000 +0000" stop="20241104070000 +0000">
+    <title lang="en">The Michael Kay Show</title>
+    <desc lang="en">Simulcast of the afternoon ESPN New York sports-talk show, featuring interviews and call-ins.</desc>
+    <category lang="en">Talk &amp; Interview</category>
+    <category lang="en">Sports</category>
   </programme>
-  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241030140000 +0000" stop="20241030143000 +0000">
-    <title lang="en">Storage Wars</title>
-    <sub-title lang="en">There's Something About Barry</sub-title>
-    <desc lang="en">A visit to Lakewood, Cal. (Repeat).</desc>
-    <credits>
-      <composer>Dieter Hartmann</composer>
-      <director>Matthew Bennett</director>
-      <producer>Dolph Scott</producer>
-      <writer>Eric Lyons</writer>
-    </credits>
-    <date>2012</date>
-    <category lang="en">Reality</category>
-    <category lang="en">Variety Shows</category>
-    <category lang="en">Business</category>
-    <icon src="https://content.internetvideoarchive.com/content/photos/13310/559053_320x240_637527260347737373.jpg" />
-    <episode-num system="onscreen">S3 E17</episode-num>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="Metacritic">
-      <value>5.7/10</value>
-    </star-rating>
-  </programme>
-  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241030143000 +0000" stop="20241030150000 +0000">
-    <title lang="en">Storage Wars</title>
-    <sub-title lang="en">Third Eye of the Tiger</sub-title>
-    <desc lang="en">The third season opens with a trip to La Verne, Cal. (Repeat).</desc>
-    <credits>
-      <composer>Dieter Hartmann</composer>
-      <director>Matthew Bennett</director>
-      <producer>Dolph Scott</producer>
-      <writer>Eric Lyons</writer>
-    </credits>
-    <date>2012</date>
-    <category lang="en">Reality</category>
-    <category lang="en">Variety Shows</category>
-    <category lang="en">Business</category>
-    <icon src="https://content.internetvideoarchive.com/content/photos/13310/559053_320x240_637527260347737373.jpg" />
-    <episode-num system="onscreen">S3 E1</episode-num>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="Metacritic">
-      <value>5.7/10</value>
-    </star-rating>
-  </programme>
-  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241030150000 +0000" stop="20241030153000 +0000">
-    <title lang="en">Storage Wars</title>
-    <sub-title lang="en">The Big Boy vs. the Heavyweight</sub-title>
-    <desc lang="en">La Habra, Cal., is toured. (Repeat).</desc>
-    <credits>
-      <composer>Dieter Hartmann</composer>
-      <director>Matthew Bennett</director>
-      <producer>Dolph Scott</producer>
-      <writer>Eric Lyons</writer>
-    </credits>
-    <date>2013</date>
-    <category lang="en">Reality</category>
-    <category lang="en">Variety Shows</category>
-    <category lang="en">Business</category>
-    <icon src="https://content.internetvideoarchive.com/content/photos/13310/559053_320x240_637527260347737373.jpg" />
-    <episode-num system="onscreen">S3 E27</episode-num>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="Metacritic">
-      <value>5.7/10</value>
-    </star-rating>
-  </programme>
-  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241030153000 +0000" stop="20241030160000 +0000">
-    <title lang="en">Storage Wars</title>
-    <sub-title lang="en">The Yup Stops Here</sub-title>
-    <desc lang="en">A visit to Riverside, Cal. (Repeat).</desc>
-    <credits>
-      <composer>Dieter Hartmann</composer>
-      <director>Matthew Bennett</director>
-      <producer>Dolph Scott</producer>
-      <writer>Eric Lyons</writer>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Reality</category>
-    <category lang="en">Variety Shows</category>
-    <category lang="en">Business</category>
-    <icon src="https://content.internetvideoarchive.com/content/photos/13310/559053_320x240_637527260347737373.jpg" />
-    <episode-num system="onscreen">S3 E14</episode-num>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-    <star-rating system="Metacritic">
-      <value>5.7/10</value>
-    </star-rating>
-  </programme>
-  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241030160000 +0000" stop="20241030163000 +0000">
-    <title lang="en">Fugitives Caught on Tape</title>
-    <sub-title lang="en">#101</sub-title>
-    <desc lang="en">Law enforcement officers pursue fugitives on the run. L.A.P.D. ground units work with helicopter officers to catch an alleged, multiple hit-and-run suspect; deputies and police in Florida chase an alleged murder suspect across county lines; deputies in New Mexico pursue a naked woman driving recklessly on the highway; and more. (Repeat).</desc>
-    <date>2024</date>
-    <category lang="en">Reality</category>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241030163000 +0000" stop="20241030170000 +0000">
-    <title lang="en">Fugitives Caught on Tape</title>
-    <sub-title lang="en">#102</sub-title>
-    <desc lang="en">Law enforcement officers pursue fugitives on the run. Officers in Florida pursue a man who stole two police cars in the same day; shots are fired as deputies engage in a foot chase with an alleged cop killer; police respond to a report of a man attacked with a machete; and more. (Repeat).</desc>
-    <date>2024</date>
-    <category lang="en">Reality</category>
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241030170000 +0000" stop="20241030173000 +0000">
-    <title lang="en">Fugitives Caught on Tape</title>
-    <sub-title lang="en">#104</sub-title>
-    <desc lang="en">Law enforcement officers pursue fugitives on the run. The dangerous pursuit of a convicted felon ends with a head-on collision with a police cruiser; a shoplifting suspect shoots at police and then sets his own house on fire during a standoff; air and ground units coordinate during a high-speed chase and foot pursuit; and more. (Repeat).</desc>
-    <date>2024</date>
-    <category lang="en">Reality</category>
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241030173000 +0000" stop="20241030180000 +0000">
-    <title lang="en">Fugitives Caught on Tape</title>
-    <sub-title lang="en">#103</sub-title>
-    <desc lang="en">Law enforcement officers pursue fugitives on the run. A man wanted for robbery and carjacking leads sheriff's deputies on a dangerous chase through crowded city streets; police get in a foot chase with an attempted murder suspect; a late night, 145 mile-an-hour highway pursuit; and more. (Repeat).</desc>
-    <date>2024</date>
-    <category lang="en">Reality</category>
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241030180000 +0000" stop="20241030183000 +0000">
-    <title lang="en">Court Cam</title>
-    <sub-title lang="en">#722</sub-title>
-    <desc lang="en">A look at some of the wildest courtroom moments. The judge gives a 79-year-old woman a final warning to stop feeding feral cats or go to jail; a local attorney makes a scene outside the courthouse. (Repeat).</desc>
-    <credits>
-      <composer>Stephen O'Reilly</composer>
-      <presenter>Dan Abrams</presenter>
-      <producer>Paul Kaup</producer>
-    </credits>
-    <date>2024</date>
-    <category lang="en">Documentary</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Drama</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12651/012651/012651_1280x720_115026_044.jpg" />
-    <episode-num system="onscreen">S7 E22</episode-num>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241030183000 +0000" stop="20241030190000 +0000">
-    <title lang="en">Court Cam</title>
-    <sub-title lang="en">#712</sub-title>
-    <desc lang="en">A defendant claims the pants he was wearing and the drug paraphernalia inside them weren't his. A grieving wife describes the DUI accident that killed her husband. An accused murderer is not happy with his lawyer; and more. (Repeat).</desc>
-    <credits>
-      <composer>Stephen O'Reilly</composer>
-      <presenter>Dan Abrams</presenter>
-      <producer>Paul Kaup</producer>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Documentary</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Drama</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12651/012651/012651_1280x720_115026_044.jpg" />
-    <episode-num system="onscreen">S7 E12</episode-num>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241030190000 +0000" stop="20241030193000 +0000">
-    <title lang="en">Court Cam</title>
-    <sub-title lang="en">#737</sub-title>
-    <desc lang="en">A look at some of the wildest courtroom moments. A man accused of driving with a suspended license gets caught lying to the judge about why he was late for court; the grieving partner of a drunk driving victim gets tasered outside the courthouse; a man testifies that his son wasn't assaulting him, claiming they were having a "cuddle match"; and more. (Repeat).</desc>
-    <credits>
-      <composer>Stephen O'Reilly</composer>
-      <presenter>Dan Abrams</presenter>
-      <producer>Paul Kaup</producer>
-    </credits>
-    <date>2024</date>
-    <category lang="en">Documentary</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Drama</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12651/012651/012651_1280x720_115026_044.jpg" />
-    <episode-num system="onscreen">S7 E37</episode-num>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241030193000 +0000" stop="20241030200000 +0000">
-    <title lang="en">Court Cam</title>
-    <sub-title lang="en">#738</sub-title>
-    <desc lang="en">A heartbroken father is taken from the courtroom for swearing at his daughter's murderer. Aguy accused of breaking his parole by consuming alcohol claims he got it from aftershave lotion. Adefendant sobs as the judge rejects her bond. (Repeat).</desc>
-    <credits>
-      <composer>Stephen O'Reilly</composer>
-      <presenter>Dan Abrams</presenter>
-      <producer>Paul Kaup</producer>
-    </credits>
-    <date>2024</date>
-    <category lang="en">Documentary</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Drama</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12651/012651/012651_1280x720_115026_044.jpg" />
-    <episode-num system="onscreen">S7 E38</episode-num>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241030200000 +0000" stop="20241030203000 +0000">
-    <title lang="en">Court Cam</title>
-    <sub-title lang="en">#739</sub-title>
-    <desc lang="en">A woman who recently underwent transition surgery is suing her ex-boyfriend for throwing her testicles in the trash. Acollege student who raised nearly $40,000 by falsely claiming to have pancreatic cancer apologizes to the court. Aman accused of assault repeatedly irritates the judge during his pretrial hearing. (Repeat).</desc>
-    <credits>
-      <composer>Stephen O'Reilly</composer>
-      <presenter>Dan Abrams</presenter>
-      <producer>Paul Kaup</producer>
-    </credits>
-    <date>2024</date>
-    <category lang="en">Documentary</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Drama</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12651/012651/012651_1280x720_115026_044.jpg" />
-    <episode-num system="onscreen">S7 E39</episode-num>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241030203000 +0000" stop="20241030210000 +0000">
-    <title lang="en">Court Cam</title>
-    <sub-title lang="en">#608</sub-title>
-    <desc lang="en">An accused murderer assaults a deputy in the courtroom. A nine-year-old youngster faces his father's killer. During his virtual hearing, a suspected sex offender will not comply. (Repeat).</desc>
-    <credits>
-      <composer>Stephen O'Reilly</composer>
-      <presenter>Dan Abrams</presenter>
-      <producer>Paul Kaup</producer>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Documentary</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Drama</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12651/012651/012651_1280x720_115026_044.jpg" />
-    <episode-num system="onscreen">S6 E8</episode-num>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241030210000 +0000" stop="20241030213000 +0000">
-    <title lang="en">Court Cam</title>
-    <sub-title lang="en">#609</sub-title>
-    <desc lang="en">When a fugitive arrives in the courthouse, he changes his mind and flees from officers. In court, an assault victim confronts her perpetrator. During his virtual arraignment, a defendant curses and makes obscene gestures before the court. (Repeat).</desc>
-    <credits>
-      <composer>Stephen O'Reilly</composer>
-      <presenter>Dan Abrams</presenter>
-      <producer>Paul Kaup</producer>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Documentary</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Drama</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12651/012651/012651_1280x720_115026_044.jpg" />
-    <episode-num system="onscreen">S6 E9</episode-num>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241030213000 +0000" stop="20241030220000 +0000">
-    <title lang="en">Court Cam</title>
-    <sub-title lang="en">#550</sub-title>
-    <desc lang="en">A convicted felon drops the f-bomb during a virtual hearing; a grieving mother brings her son's ashes to his killer's sentencing; a professional bingo player has a hard time remembering his criminal past; and more. (Repeat).</desc>
-    <credits>
-      <composer>Stephen O'Reilly</composer>
-      <presenter>Dan Abrams</presenter>
-      <producer>Paul Kaup</producer>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Documentary</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Drama</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12651/012651/012651_1280x720_115026_044.jpg" />
-    <episode-num system="onscreen">S5 E50</episode-num>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241030220000 +0000" stop="20241030223000 +0000">
-    <title lang="en">Court Cam</title>
-    <sub-title lang="en">#433</sub-title>
-    <desc lang="en">A shocking courthouse shootout ends with deadly consequences; a defendant given a life sentence explodes; a rap superstar gives a courtroom performance to remember; and more. (Repeat).</desc>
-    <credits>
-      <composer>Stephen O'Reilly</composer>
-      <presenter>Dan Abrams</presenter>
-      <producer>Paul Kaup</producer>
-    </credits>
-    <date>2021</date>
-    <category lang="en">Documentary</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Drama</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12651/012651/012651_1280x720_115026_044.jpg" />
-    <episode-num system="onscreen">S4 E33</episode-num>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241030223000 +0000" stop="20241030230000 +0000">
-    <title lang="en">Court Cam</title>
-    <sub-title lang="en">#540</sub-title>
-    <desc lang="en">A road rage suspect attacks a bailiff in court; a grieving mother screams at the hit-and-run driver who killed her daughter; a jury bungles the sentencing phase of a murder trial; and more. (Repeat).</desc>
-    <credits>
-      <composer>Stephen O'Reilly</composer>
-      <presenter>Dan Abrams</presenter>
-      <producer>Paul Kaup</producer>
-    </credits>
-    <date>2022</date>
-    <category lang="en">Documentary</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Drama</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12651/012651/012651_1280x720_115026_044.jpg" />
-    <episode-num system="onscreen">S5 E40</episode-num>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241030230000 +0000" stop="20241030233000 +0000">
-    <title lang="en">Court Cam</title>
-    <sub-title lang="en">#742</sub-title>
-    <desc lang="en">A man suspected of murder attempts to attend his arraignment naked. Alady accused of assaulting her mother hangs up during her virtual hearing. Aman seeking a protection order against his wife gives a judge the finger in court. (Repeat).</desc>
-    <credits>
-      <composer>Stephen O'Reilly</composer>
-      <presenter>Dan Abrams</presenter>
-      <producer>Paul Kaup</producer>
-    </credits>
-    <date>2024</date>
-    <category lang="en">Documentary</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Drama</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12651/012651/012651_1280x720_115026_044.jpg" />
-    <episode-num system="onscreen">S7 E42</episode-num>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241030233000 +0000" stop="20241031000000 +0000">
-    <title lang="en">Court Cam</title>
-    <sub-title lang="en">#806</sub-title>
-    <desc lang="en">A look at some of the wildest courtroom moments. A woman convicted of assault flees the courtroom after being sentenced to jail time; a grieving man confronts the convict who killed his son in prison; the judge is hard on a carnival worker who's behind on her child support payments; and more. (Repeat).</desc>
-    <credits>
-      <composer>Stephen O'Reilly</composer>
-      <presenter>Dan Abrams</presenter>
-      <producer>Paul Kaup</producer>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Documentary</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Drama</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12651/012651/012651_1280x720_115026_044.jpg" />
-    <previously-shown />  <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241031000000 +0000" stop="20241031003000 +0000">
-    <title lang="en">Court Cam</title>
-    <sub-title lang="en">#741</sub-title>
-    <desc lang="en">Edward Cocaine appears in court charged with unauthorized possession of Xanax. Two sisters face the man who murdered their younger brother. The judge admonishes a model accused of hitting a 16-year-old boy who she claims was tormenting her kid. (Repeat).</desc>
-    <credits>
-      <composer>Stephen O'Reilly</composer>
-      <presenter>Dan Abrams</presenter>
-      <producer>Paul Kaup</producer>
-    </credits>
-    <date>2024</date>
-    <category lang="en">Documentary</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Drama</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12651/012651/012651_1280x720_115026_044.jpg" />
-    <episode-num system="onscreen">S7 E41</episode-num>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241031003000 +0000" stop="20241031010000 +0000">
-    <title lang="en">Court Cam</title>
-    <sub-title lang="en">#735</sub-title>
-    <desc lang="en">A devastated father yells at his son's killer after sentencing. A defendant engages in a yelling war with the judge during her virtual hearing. An assault victim bravely confronts her attacker in court. (Repeat).</desc>
-    <credits>
-      <composer>Stephen O'Reilly</composer>
-      <presenter>Dan Abrams</presenter>
-      <producer>Paul Kaup</producer>
-    </credits>
-    <date>2024</date>
-    <category lang="en">Documentary</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Drama</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12651/012651/012651_1280x720_115026_044.jpg" />
-    <episode-num system="onscreen">S7 E35</episode-num>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241031010000 +0000" stop="20241031013000 +0000">
-    <title lang="en">Court Cam</title>
-    <sub-title lang="en">#809</sub-title>
-    <desc lang="en">A look at some of the wildest courtroom moments. Emotions run high as a grieving daughter confronts her father's killer in court; the judge questions a woman accused of falsely reporting her boyfriend for domestic battery; a judge catches a defendant lying in court and sends her to jail; and more. (New).</desc>
-    <credits>
-      <composer>Stephen O'Reilly</composer>
-      <presenter>Dan Abrams</presenter>
-      <producer>Paul Kaup</producer>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Documentary</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Drama</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12651/012651/012651_1280x720_115026_044.jpg" />
-    <premiere lang="en" />
+  <programme channel="Yankees.Television.HDTV.(YESHD).us" start="20241104070000 +0000" stop="20241104073000 +0000">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid Programming.</desc>
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241031013000 +0000" stop="20241031020100 +0000">
-    <title lang="en">Court Cam</title>
-    <sub-title lang="en">#810</sub-title>
-    <desc lang="en">A look at some of the wildest courtroom moments. A convicted cop killer tells the court that he deserves the death penalty; a judge dismisses the jury after a witness's testimony becomes too emotional; a man charged with D-W-I gets caught lying to the judge; and more. (New).</desc>
-    <credits>
-      <composer>Stephen O'Reilly</composer>
-      <presenter>Dan Abrams</presenter>
-      <producer>Paul Kaup</producer>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Documentary</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Drama</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12651/012651/012651_1280x720_115026_044.jpg" />
-    <premiere lang="en" />
+  <programme channel="Yankees.Television.HDTV.(YESHD).us" start="20241104073000 +0000" stop="20241104080000 +0000">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid Programming.</desc>
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241031020100 +0000" stop="20241031023200 +0000">
-    <title lang="en">Fugitives Caught on Tape</title>
-    <sub-title lang="en">#105</sub-title>
-    <desc lang="en">Law enforcement officers pursue fugitives on the run. A truck thief streams his high-speed chase on social media; a man wanted for double murder fires shots at pursuing officers; a man caught sleeping at a traffic light flees police and crashes a high-end sports car; and more. (New).</desc>
-    <date>2024</date>
-    <category lang="en">Reality</category>
-    <premiere lang="en" />
+  <programme channel="Yankees.Television.HDTV.(YESHD).us" start="20241104080000 +0000" stop="20241104083000 +0000">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid Programming.</desc>
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241031023200 +0000" stop="20241031030400 +0000">
-    <title lang="en">Fugitives Caught on Tape</title>
-    <sub-title lang="en">#106</sub-title>
-    <desc lang="en">Law enforcement officers pursue fugitives on the run. A car thief in New Mexico steals a vehicle from right under the noses of deputies; police in Wisconsin get in a foot chase with a serial evader; L-A-P-D officers engage in the slow-speed highway pursuit of an attempted murder suspect...on a bicycle; and more. (New).</desc>
-    <date>2024</date>
-    <category lang="en">Reality</category>
-    <premiere lang="en" />
+  <programme channel="Yankees.Television.HDTV.(YESHD).us" start="20241104083000 +0000" stop="20241104090000 +0000">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid Programming.</desc>
     <rating system="MPAA">
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241031030400 +0000" stop="20241031033400 +0000">
-    <title lang="en">Court Cam</title>
-    <sub-title lang="en">#740</sub-title>
-    <desc lang="en">The judge loses patience with a man accused of drunken boating. A defendant waiting outside the courtroom is violently assaulted. A lady being sued for overdue rent yells at the court during her virtual hearing. (Repeat).</desc>
+  <programme channel="Yankees.Television.HDTV.(YESHD).us" start="20241104090000 +0000" stop="20241104093000 +0000">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid Programming.</desc>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme channel="Yankees.Television.HDTV.(YESHD).us" start="20241104093000 +0000" stop="20241104100000 +0000">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid Programming.</desc>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme channel="Yankees.Television.HDTV.(YESHD).us" start="20241104100000 +0000" stop="20241104103000 +0000">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid Programming.</desc>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme channel="Yankees.Television.HDTV.(YESHD).us" start="20241104103000 +0000" stop="20241104110000 +0000">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid Programming.</desc>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme channel="Yankees.Television.HDTV.(YESHD).us" start="20241104110000 +0000" stop="20241104120000 +0000">
+    <title lang="en">CenterStage</title>
+    <desc lang="en">In-depth interviews with personalities from sports and the entertainment scene.</desc>
     <credits>
-      <composer>Stephen O'Reilly</composer>
-      <presenter>Dan Abrams</presenter>
-      <producer>Paul Kaup</producer>
+      <presenter>Michael Kay</presenter>
     </credits>
-    <date>2024</date>
-    <category lang="en">Documentary</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Drama</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12651/012651/012651_1280x720_115026_044.jpg" />
-    <episode-num system="onscreen">S7 E40</episode-num>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
+    <category lang="en">Talk &amp; Interview</category>
+    <category lang="en">Sports</category>
   </programme>
-  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241031033400 +0000" stop="20241031040300 +0000">
-    <title lang="en">Court Cam</title>
-    <sub-title lang="en">#703</sub-title>
-    <desc lang="en">A wrestling move lands a teen in court. A man who was supposed to attend a hearing instead flees the courthouse. A judge is offended by a defendant's remark. (Repeat).</desc>
-    <credits>
-      <composer>Stephen O'Reilly</composer>
-      <presenter>Dan Abrams</presenter>
-      <producer>Paul Kaup</producer>
-    </credits>
-    <date>2023</date>
-    <category lang="en">Documentary</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Drama</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12651/012651/012651_1280x720_115026_044.jpg" />
-    <episode-num system="onscreen">S7 E3</episode-num>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
+  <programme channel="Yankees.Television.HDTV.(YESHD).us" start="20241104120000 +0000" stop="20241104123000 +0000">
+    <title lang="en">Joe Girardi Show</title>
+    <desc lang="en">New York Yankees highlights and discussion with the manager.</desc>
   </programme>
-  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241031040300 +0000" stop="20241031043300 +0000">
-    <title lang="en">Court Cam</title>
-    <sub-title lang="en">#741</sub-title>
-    <desc lang="en">Edward Cocaine appears in court charged with unauthorized possession of Xanax. Two sisters face the man who murdered their younger brother. The judge admonishes a model accused of hitting a 16-year-old boy who she claims was tormenting her kid. (Repeat).</desc>
-    <credits>
-      <composer>Stephen O'Reilly</composer>
-      <presenter>Dan Abrams</presenter>
-      <producer>Paul Kaup</producer>
-    </credits>
-    <date>2024</date>
-    <category lang="en">Documentary</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Drama</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12651/012651/012651_1280x720_115026_044.jpg" />
-    <episode-num system="onscreen">S7 E41</episode-num>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
+  <programme channel="Yankees.Television.HDTV.(YESHD).us" start="20241104123000 +0000" stop="20241104130000 +0000">
+    <title lang="en">Boxing 30</title>
+    <desc lang="en">Fight highlights, discussion, interviews and features in a look inside the sport of boxing.</desc>
   </programme>
-  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241031043300 +0000" stop="20241031050300 +0000">
-    <title lang="en">Court Cam</title>
-    <sub-title lang="en">#735</sub-title>
-    <desc lang="en">A devastated father yells at his son's killer after sentencing. A defendant engages in a yelling war with the judge during her virtual hearing. An assault victim bravely confronts her attacker in court. (Repeat).</desc>
-    <credits>
-      <composer>Stephen O'Reilly</composer>
-      <presenter>Dan Abrams</presenter>
-      <producer>Paul Kaup</producer>
-    </credits>
-    <date>2024</date>
-    <category lang="en">Documentary</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Drama</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12651/012651/012651_1280x720_115026_044.jpg" />
-    <episode-num system="onscreen">S7 E35</episode-num>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
+  <programme channel="Yankees.Television.HDTV.(YESHD).us" start="20241104130000 +0000" stop="20241104140000 +0000">
+    <title lang="en">Yankeeography</title>
+    <desc lang="en">A biographical series examining great Yankees players, from the legends to contemporary heroes.</desc>
+    <date>2002</date>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
   </programme>
-  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241031050300 +0000" stop="20241031053300 +0000">
-    <title lang="en">Court Cam</title>
-    <sub-title lang="en">#809</sub-title>
-    <desc lang="en">A look at some of the wildest courtroom moments. Emotions run high as a grieving daughter confronts her father's killer in court; the judge questions a woman accused of falsely reporting her boyfriend for domestic battery; a judge catches a defendant lying in court and sends her to jail; and more. (Repeat).</desc>
-    <credits>
-      <composer>Stephen O'Reilly</composer>
-      <presenter>Dan Abrams</presenter>
-      <producer>Paul Kaup</producer>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Documentary</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Drama</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12651/012651/012651_1280x720_115026_044.jpg" />
-    <previously-shown />  <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
+  <programme channel="Yankees.Television.HDTV.(YESHD).us" start="20241104140000 +0000" stop="20241104170000 +0000">
+    <title lang="en">The Michael Kay Show</title>
+    <desc lang="en">Simulcast of the afternoon ESPN New York sports-talk show, featuring interviews and call-ins.</desc>
+    <category lang="en">Talk &amp; Interview</category>
+    <category lang="en">Sports</category>
   </programme>
-  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241031053300 +0000" stop="20241031060400 +0000">
-    <title lang="en">Court Cam</title>
-    <sub-title lang="en">#810</sub-title>
-    <desc lang="en">A look at some of the wildest courtroom moments. A convicted cop killer tells the court that he deserves the death penalty; a judge dismisses the jury after a witness's testimony becomes too emotional; a man charged with D-W-I gets caught lying to the judge; and more. (Repeat).</desc>
-    <credits>
-      <composer>Stephen O'Reilly</composer>
-      <presenter>Dan Abrams</presenter>
-      <producer>Paul Kaup</producer>
-    </credits>
-    <date>2025</date>
-    <category lang="en">Documentary</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Drama</category>
-    <icon src="https://content.internetvideoarchive.com/content/hdphotos/12651/012651/012651_1280x720_115026_044.jpg" />
-    <previously-shown />  <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
+  <programme channel="Yankees.Television.HDTV.(YESHD).us" start="20241104170000 +0000" stop="20241104173000 +0000">
+    <title lang="en">Joe Girardi Show</title>
+    <desc lang="en">New York Yankees highlights and discussion with the manager.</desc>
   </programme>
-  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241031060400 +0000" stop="20241031063400 +0000">
-    <title lang="en">Fugitives Caught on Tape</title>
-    <sub-title lang="en">#105</sub-title>
-    <desc lang="en">Law enforcement officers pursue fugitives on the run. A truck thief streams his high-speed chase on social media; a man wanted for double murder fires shots at pursuing officers; a man caught sleeping at a traffic light flees police and crashes a high-end sports car; and more. (Repeat).</desc>
-    <date>2024</date>
-    <category lang="en">Reality</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
+  <programme channel="Yankees.Television.HDTV.(YESHD).us" start="20241104173000 +0000" stop="20241104180000 +0000">
+    <title lang="en">Running</title>
+    <desc lang="en">A monthly look at road-racing competitions and events across the country and in the New York area. Also: where to run; training tips; equipment reviews; and upcoming events.</desc>
+    <category lang="en">Sports</category>
   </programme>
-  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241031063400 +0000" stop="20241031070500 +0000">
-    <title lang="en">Fugitives Caught on Tape</title>
-    <sub-title lang="en">#106</sub-title>
-    <desc lang="en">Law enforcement officers pursue fugitives on the run. A car thief in New Mexico steals a vehicle from right under the noses of deputies; police in Wisconsin get in a foot chase with a serial evader; L-A-P-D officers engage in the slow-speed highway pursuit of an attempted murder suspect...on a bicycle; and more. (Repeat).</desc>
-    <date>2024</date>
+  <programme channel="Yankees.Television.HDTV.(YESHD).us" start="20241104180000 +0000" stop="20241104183000 +0000">
+    <title lang="en">Swing Clinic with Jimmy Hanlin</title>
+    <desc lang="en">PGA pro Jimmy Hanlin takes viewers to school with golf tips, rules, etiquette, exercises and more.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme channel="Yankees.Television.HDTV.(YESHD).us" start="20241104183000 +0000" stop="20241104190000 +0000">
+    <title lang="en">18 Holes With Jimmy Hanlin</title>
+    <desc lang="en">Touring top golf courses around the U.S., plus a look at other amenities offered by the resorts.</desc>
+  </programme>
+  <programme channel="Yankees.Television.HDTV.(YESHD).us" start="20241104190000 +0000" stop="20241104193000 +0000">
+    <title lang="en">Inside Israeli Basketball</title>
+    <desc lang="en">Documenting the pro-basketball experience in Israel for American players.</desc>
     <category lang="en">Reality</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV-14</value>
-    </rating>
+    <category lang="en">Pro Sports</category>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme channel="Yankees.Television.HDTV.(YESHD).us" start="20241104193000 +0000" stop="20241104200000 +0000">
+    <title lang="en">Joe Girardi Show</title>
+    <desc lang="en">New York Yankees highlights and discussion with the manager.</desc>
+  </programme>
+  <programme channel="Yankees.Television.HDTV.(YESHD).us" start="20241104200000 +0000" stop="20241105000000 +0000">
+    <title lang="en">The Michael Kay Show</title>
+    <desc lang="en">Simulcast of the afternoon ESPN New York sports-talk show, featuring interviews and call-ins. (Live).</desc>
+    <category lang="en">Talk &amp; Interview</category>
+    <category lang="en">Sports</category>
+    <premiere lang="en" />
   </programme>
   <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241031070500 +0000" stop="20241031073400 +0000">
     <title lang="en">Court Cam</title>
@@ -3976,272 +3274,660 @@
       <value>5.7/10</value>
     </star-rating>
   </programme>
-  <programme channel="5StarMAX.HD.us" start="20241030051900 -0500" stop="20241030065400 -0500">
-    <title lang="en">Bill &amp; Ted's Bogus Journey</title>
-    <desc lang="en">The dopey dudes (Keanu Reeves, Alex Winter) beat the Grim Reaper (William Sadler) in a board-game contest, so he must help them stop their evil robot twins.</desc>
+  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241103000000 +0000" stop="20241103003000 +0000">
+    <title lang="en">Storage Wars</title>
+    <sub-title lang="en">Gambler of Thrones</sub-title>
+    <desc lang="en">Palm Springs is visited. (Repeat).</desc>
     <credits>
-      <actor>Keanu Reeves</actor>
-      <actor>Alex Winter</actor>
-      <actor>William Sadler</actor>
+      <composer>Dieter Hartmann</composer>
+      <director>Matthew Bennett</director>
+      <producer>Dolph Scott</producer>
+      <writer>Eric Lyons</writer>
     </credits>
-    <date>1991</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Comedy</category>
+    <date>2015</date>
+    <category lang="en">Reality</category>
+    <category lang="en">Variety Shows</category>
+    <category lang="en">Business</category>
+    <icon src="https://content.internetvideoarchive.com/content/photos/13310/559053_320x240_637527260347737373.jpg" />
+    <episode-num system="onscreen">S6 E11</episode-num>
     <previously-shown />  <rating system="MPAA">
-      <value>TVG</value>
+      <value>TV-PG</value>
     </rating>
-    <star-rating system="MPAA">
-      <value>4.0/10</value>
+    <star-rating system="Metacritic">
+      <value>5.7/10</value>
     </star-rating>
   </programme>
-  <programme channel="5StarMAX.HD.us" start="20241030065400 -0500" stop="20241030082900 -0500">
-    <title lang="en">Tracers</title>
-    <desc lang="en">A beautiful woman (Marie Avgeropoulos) helps a New York bicycle messenger (Taylor Lautner) who's in hot water with a group of gangsters.</desc>
+  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241103003000 +0000" stop="20241103010000 +0000">
+    <title lang="en">Storage Wars</title>
+    <sub-title lang="en">Olé/GYN</sub-title>
+    <desc lang="en">Mary's locker brings out her inner voice; Kenny tries to clothe America; and Brandi and Jarrod get a leg up on the competition. (Repeat).</desc>
     <credits>
-      <actor>Taylor Lautner</actor>
-      <actor>Marie Avgeropoulos</actor>
-      <actor>Adam Rayner</actor>
+      <composer>Dieter Hartmann</composer>
+      <director>Matthew Bennett</director>
+      <producer>Dolph Scott</producer>
+      <writer>Eric Lyons</writer>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Reality</category>
+    <category lang="en">Variety Shows</category>
+    <category lang="en">Business</category>
+    <icon src="https://content.internetvideoarchive.com/content/photos/13310/559053_320x240_637527260347737373.jpg" />
+    <episode-num system="onscreen">S10 E12</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>5.7/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241103010000 +0000" stop="20241103013000 +0000">
+    <title lang="en">Storage Wars</title>
+    <sub-title lang="en">It's All Smoke and Mirrors</sub-title>
+    <desc lang="en">The locker hunters are looking for big buys, and even Ivy is willing to spend his money, when they travel to Rancho Cucamonga, Cal. (Repeat).</desc>
+    <credits>
+      <composer>Dieter Hartmann</composer>
+      <director>Matthew Bennett</director>
+      <producer>Dolph Scott</producer>
+      <writer>Eric Lyons</writer>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Reality</category>
+    <category lang="en">Variety Shows</category>
+    <category lang="en">Business</category>
+    <icon src="https://content.internetvideoarchive.com/content/photos/13310/559053_320x240_637527260347737373.jpg" />
+    <episode-num system="onscreen">S7 E5</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>5.7/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241103013000 +0000" stop="20241103020000 +0000">
+    <title lang="en">Storage Wars</title>
+    <sub-title lang="en">Out of the Frying Pan Am</sub-title>
+    <desc lang="en">The buyers hit Dan's hometown, and the Vegas Ladies' locker really takes off. Also: Kenny's purchase sets his wallet alight, while Brandi and Jarrod put their vacation funds on the line. (Repeat).</desc>
+    <credits>
+      <composer>Dieter Hartmann</composer>
+      <director>Matthew Bennett</director>
+      <producer>Dolph Scott</producer>
+      <writer>Eric Lyons</writer>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Reality</category>
+    <category lang="en">Variety Shows</category>
+    <category lang="en">Business</category>
+    <icon src="https://content.internetvideoarchive.com/content/photos/13310/559053_320x240_637527260347737373.jpg" />
+    <episode-num system="onscreen">S11 E2</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>5.7/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241103020000 +0000" stop="20241103023000 +0000">
+    <title lang="en">Storage Wars</title>
+    <sub-title lang="en">The Sweet Sniff of Success</sub-title>
+    <desc lang="en">The buyers compete to be top dog in West Covina, Cal., where Jarrod and Brandi bring a secret weapon to sniff out the best lockers. Meanwhile, Darrell and Brandon help their competitors dress for success; and Mary keeps her eye out for vintage goods. (Repeat).</desc>
+    <credits>
+      <composer>Dieter Hartmann</composer>
+      <director>Matthew Bennett</director>
+      <producer>Dolph Scott</producer>
+      <writer>Eric Lyons</writer>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Reality</category>
+    <category lang="en">Variety Shows</category>
+    <category lang="en">Business</category>
+    <icon src="https://content.internetvideoarchive.com/content/photos/13310/559053_320x240_637527260347737373.jpg" />
+    <episode-num system="onscreen">S7 E3</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>5.7/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241103023000 +0000" stop="20241103030000 +0000">
+    <title lang="en">Storage Wars</title>
+    <sub-title lang="en">The School of Hard Knock-Knocks</sub-title>
+    <desc lang="en">The buys visit a college town and squabble over the quantity and quality of items. Elsewhere: Mary lashes out as Jarrod and Brandi bring a new member into the team. (Repeat).</desc>
+    <credits>
+      <composer>Dieter Hartmann</composer>
+      <director>Matthew Bennett</director>
+      <producer>Dolph Scott</producer>
+      <writer>Eric Lyons</writer>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Reality</category>
+    <category lang="en">Variety Shows</category>
+    <category lang="en">Business</category>
+    <icon src="https://content.internetvideoarchive.com/content/photos/13310/559053_320x240_637527260347737373.jpg" />
+    <episode-num system="onscreen">S8 E9</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>5.7/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241103030000 +0000" stop="20241103033000 +0000">
+    <title lang="en">Storage Wars</title>
+    <sub-title lang="en">The Way of the YUUUP!</sub-title>
+    <desc lang="en">Back in Torrance, Mary dabbles with Dave's dark arts, while Kenny takes some excavation lessons. Brandi and Jarrod quit horsing around long enough to stumble across a wartime oddity. (Repeat).</desc>
+    <credits>
+      <composer>Dieter Hartmann</composer>
+      <director>Matthew Bennett</director>
+      <producer>Dolph Scott</producer>
+      <writer>Eric Lyons</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Reality</category>
+    <category lang="en">Variety Shows</category>
+    <category lang="en">Business</category>
+    <icon src="https://content.internetvideoarchive.com/content/photos/13310/559053_320x240_637527260347737373.jpg" />
+    <episode-num system="onscreen">S11 E19</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>5.7/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241103033000 +0000" stop="20241103040000 +0000">
+    <title lang="en">Storage Wars</title>
+    <sub-title lang="en">The Wild Wild Vests</sub-title>
+    <desc lang="en">The oldest facility in Los Angeles is where the newest buyers make their debut in the Season 11 premiere. Also: Brandi and Jarrod try to piece their way to a win, while Ivy manages to hoard most of the units for himself. (Repeat).</desc>
+    <credits>
+      <composer>Dieter Hartmann</composer>
+      <director>Matthew Bennett</director>
+      <producer>Dolph Scott</producer>
+      <writer>Eric Lyons</writer>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Reality</category>
+    <category lang="en">Variety Shows</category>
+    <category lang="en">Business</category>
+    <icon src="https://content.internetvideoarchive.com/content/photos/13310/559053_320x240_637527260347737373.jpg" />
+    <episode-num system="onscreen">S11 E1</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>5.7/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241103040000 +0000" stop="20241103043000 +0000">
+    <title lang="en">Storage Wars</title>
+    <sub-title lang="en">Gambler of Thrones</sub-title>
+    <desc lang="en">Palm Springs is visited. (Repeat).</desc>
+    <credits>
+      <composer>Dieter Hartmann</composer>
+      <director>Matthew Bennett</director>
+      <producer>Dolph Scott</producer>
+      <writer>Eric Lyons</writer>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Reality</category>
+    <category lang="en">Variety Shows</category>
+    <category lang="en">Business</category>
+    <icon src="https://content.internetvideoarchive.com/content/photos/13310/559053_320x240_637527260347737373.jpg" />
+    <episode-num system="onscreen">S6 E11</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>5.7/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241103043000 +0000" stop="20241103050000 +0000">
+    <title lang="en">Storage Wars</title>
+    <sub-title lang="en">Olé/GYN</sub-title>
+    <desc lang="en">Mary's locker brings out her inner voice; Kenny tries to clothe America; and Brandi and Jarrod get a leg up on the competition. (Repeat).</desc>
+    <credits>
+      <composer>Dieter Hartmann</composer>
+      <director>Matthew Bennett</director>
+      <producer>Dolph Scott</producer>
+      <writer>Eric Lyons</writer>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Reality</category>
+    <category lang="en">Variety Shows</category>
+    <category lang="en">Business</category>
+    <icon src="https://content.internetvideoarchive.com/content/photos/13310/559053_320x240_637527260347737373.jpg" />
+    <episode-num system="onscreen">S10 E12</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>5.7/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241103050000 +0000" stop="20241103053000 +0000">
+    <title lang="en">Storage Wars</title>
+    <sub-title lang="en">It's All Smoke and Mirrors</sub-title>
+    <desc lang="en">The locker hunters are looking for big buys, and even Ivy is willing to spend his money, when they travel to Rancho Cucamonga, Cal. (Repeat).</desc>
+    <credits>
+      <composer>Dieter Hartmann</composer>
+      <director>Matthew Bennett</director>
+      <producer>Dolph Scott</producer>
+      <writer>Eric Lyons</writer>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Reality</category>
+    <category lang="en">Variety Shows</category>
+    <category lang="en">Business</category>
+    <icon src="https://content.internetvideoarchive.com/content/photos/13310/559053_320x240_637527260347737373.jpg" />
+    <episode-num system="onscreen">S7 E5</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>5.7/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241103053000 +0000" stop="20241103060000 +0000">
+    <title lang="en">Storage Wars</title>
+    <sub-title lang="en">Out of the Frying Pan Am</sub-title>
+    <desc lang="en">The buyers hit Dan's hometown, and the Vegas Ladies' locker really takes off. Also: Kenny's purchase sets his wallet alight, while Brandi and Jarrod put their vacation funds on the line. (Repeat).</desc>
+    <credits>
+      <composer>Dieter Hartmann</composer>
+      <director>Matthew Bennett</director>
+      <producer>Dolph Scott</producer>
+      <writer>Eric Lyons</writer>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Reality</category>
+    <category lang="en">Variety Shows</category>
+    <category lang="en">Business</category>
+    <icon src="https://content.internetvideoarchive.com/content/photos/13310/559053_320x240_637527260347737373.jpg" />
+    <episode-num system="onscreen">S11 E2</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>5.7/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241103060000 +0000" stop="20241103063000 +0000">
+    <title lang="en">Storage Wars</title>
+    <sub-title lang="en">The Sweet Sniff of Success</sub-title>
+    <desc lang="en">The buyers compete to be top dog in West Covina, Cal., where Jarrod and Brandi bring a secret weapon to sniff out the best lockers. Meanwhile, Darrell and Brandon help their competitors dress for success; and Mary keeps her eye out for vintage goods. (Repeat).</desc>
+    <credits>
+      <composer>Dieter Hartmann</composer>
+      <director>Matthew Bennett</director>
+      <producer>Dolph Scott</producer>
+      <writer>Eric Lyons</writer>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Reality</category>
+    <category lang="en">Variety Shows</category>
+    <category lang="en">Business</category>
+    <icon src="https://content.internetvideoarchive.com/content/photos/13310/559053_320x240_637527260347737373.jpg" />
+    <episode-num system="onscreen">S7 E3</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>5.7/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241103063000 +0000" stop="20241103070000 +0000">
+    <title lang="en">Storage Wars</title>
+    <sub-title lang="en">The School of Hard Knock-Knocks</sub-title>
+    <desc lang="en">The buys visit a college town and squabble over the quantity and quality of items. Elsewhere: Mary lashes out as Jarrod and Brandi bring a new member into the team. (Repeat).</desc>
+    <credits>
+      <composer>Dieter Hartmann</composer>
+      <director>Matthew Bennett</director>
+      <producer>Dolph Scott</producer>
+      <writer>Eric Lyons</writer>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Reality</category>
+    <category lang="en">Variety Shows</category>
+    <category lang="en">Business</category>
+    <icon src="https://content.internetvideoarchive.com/content/photos/13310/559053_320x240_637527260347737373.jpg" />
+    <episode-num system="onscreen">S8 E9</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>5.7/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241103070000 +0000" stop="20241103073000 +0000">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid Programming. (Repeat).</desc>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241103073000 +0000" stop="20241103080000 +0000">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid Programming. (Repeat).</desc>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241103080000 +0000" stop="20241103083000 +0000">
+    <title lang="en">Storage Wars</title>
+    <sub-title lang="en">The Way of the YUUUP!</sub-title>
+    <desc lang="en">Back in Torrance, Mary dabbles with Dave's dark arts, while Kenny takes some excavation lessons. Brandi and Jarrod quit horsing around long enough to stumble across a wartime oddity. (Repeat).</desc>
+    <credits>
+      <composer>Dieter Hartmann</composer>
+      <director>Matthew Bennett</director>
+      <producer>Dolph Scott</producer>
+      <writer>Eric Lyons</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Reality</category>
+    <category lang="en">Variety Shows</category>
+    <category lang="en">Business</category>
+    <icon src="https://content.internetvideoarchive.com/content/photos/13310/559053_320x240_637527260347737373.jpg" />
+    <episode-num system="onscreen">S11 E19</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>5.7/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241103083000 +0000" stop="20241103090000 +0000">
+    <title lang="en">Storage Wars</title>
+    <sub-title lang="en">The Wild Wild Vests</sub-title>
+    <desc lang="en">The oldest facility in Los Angeles is where the newest buyers make their debut in the Season 11 premiere. Also: Brandi and Jarrod try to piece their way to a win, while Ivy manages to hoard most of the units for himself. (Repeat).</desc>
+    <credits>
+      <composer>Dieter Hartmann</composer>
+      <director>Matthew Bennett</director>
+      <producer>Dolph Scott</producer>
+      <writer>Eric Lyons</writer>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Reality</category>
+    <category lang="en">Variety Shows</category>
+    <category lang="en">Business</category>
+    <icon src="https://content.internetvideoarchive.com/content/photos/13310/559053_320x240_637527260347737373.jpg" />
+    <episode-num system="onscreen">S11 E1</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+    <star-rating system="Metacritic">
+      <value>5.7/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241103090000 +0000" stop="20241103093000 +0000">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid Programming. (Repeat).</desc>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241103093000 +0000" stop="20241103100000 +0000">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid Programming. (Repeat).</desc>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241103100000 +0000" stop="20241103103000 +0000">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid Programming. (Repeat).</desc>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241103103000 +0000" stop="20241103110000 +0000">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid Programming. (Repeat).</desc>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241103110000 +0000" stop="20241103113000 +0000">
+    <title lang="en">Paid Programming</title>
+    <desc lang="en">Paid Programming. (Repeat).</desc>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241103113000 +0000" stop="20241103120000 +0000">
+    <title lang="en">The Potter's Touch with Bishop T.D. Jakes</title>
+    <desc lang="en">Religious Programming (Repeat).</desc>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241103120000 +0000" stop="20241103130000 +0000">
+    <title lang="en">Zombie House Flipping</title>
+    <sub-title lang="en">San Juan</sub-title>
+    <desc lang="en">The crew decides that a huge house made of sloppy framework and unstable floors is too crazy even for them. But when a pair of rival flippers nabs the place and asks for the Zombie team's help renovating it, they strike a deal to work together, facing issues like rats in drainpipes and rundown skylights. But their new partners have conflicting views on construction and design that could put this project in jeopardy. (Repeat).</desc>
+    <credits>
+      <presenter>Justin Stamper</presenter>
+      <presenter>Keith Ori</presenter>
+      <presenter>Ashlee Casserly</presenter>
+      <producer>Craig Piligian</producer>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Reality</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/11411/011411/011411_1280x720_46185_014.jpg" />
+    <episode-num system="onscreen">S4 E18</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241103130000 +0000" stop="20241103140000 +0000">
+    <title lang="en">Zombie House Flipping</title>
+    <sub-title lang="en">Killian</sub-title>
+    <desc lang="en">The team decides it could be worth it if they can work fast and limit their loan interest to single monthly payment. (Repeat).</desc>
+    <credits>
+      <presenter>Justin Stamper</presenter>
+      <presenter>Keith Ori</presenter>
+      <presenter>Ashlee Casserly</presenter>
+      <producer>Craig Piligian</producer>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Reality</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/11411/011411/011411_1280x720_46185_014.jpg" />
+    <episode-num system="onscreen">S4 E6</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241103140000 +0000" stop="20241103150000 +0000">
+    <title lang="en">Zombie House Flipping</title>
+    <sub-title lang="en">Emerywood</sub-title>
+    <desc lang="en">Wanting more involvement in the business, Alynne took a side project she and Keith can work on. The project would test their mettle as renovators and flippers as the house is not only outdated and dingy, but the finishing is horrendous. (Repeat).</desc>
+    <credits>
+      <presenter>Justin Stamper</presenter>
+      <presenter>Keith Ori</presenter>
+      <presenter>Ashlee Casserly</presenter>
+      <producer>Craig Piligian</producer>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Reality</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/11411/011411/011411_1280x720_46185_014.jpg" />
+    <episode-num system="onscreen">S4 E16</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241103150000 +0000" stop="20241103160000 +0000">
+    <title lang="en">Zombie House Flipping</title>
+    <sub-title lang="en">Catalpa</sub-title>
+    <desc lang="en">The team discovers a mid-century house that has its share of zombie features. (Repeat).</desc>
+    <credits>
+      <presenter>Justin Stamper</presenter>
+      <presenter>Keith Ori</presenter>
+      <presenter>Ashlee Casserly</presenter>
+      <producer>Craig Piligian</producer>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Reality</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/11411/011411/011411_1280x720_46185_014.jpg" />
+    <episode-num system="onscreen">S4 E4</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241103160000 +0000" stop="20241103170000 +0000">
+    <title lang="en">Zombie House Flipping</title>
+    <sub-title lang="en">Orlando: Sweetbriar</sub-title>
+    <desc lang="en">The Zombie team is back where it all began in the Jewel Oaks neighborhood of Orlando, where Duke and Keith first flipped a house together. (Repeat).</desc>
+    <credits>
+      <presenter>Justin Stamper</presenter>
+      <presenter>Keith Ori</presenter>
+      <presenter>Ashlee Casserly</presenter>
+      <producer>Craig Piligian</producer>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Reality</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/11411/011411/011411_1280x720_46185_014.jpg" />
+    <episode-num system="onscreen">S5 E10</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241103170000 +0000" stop="20241103180000 +0000">
+    <title lang="en">Zombie House Flipping</title>
+    <sub-title lang="en">Orangewood</sub-title>
+    <desc lang="en">The team leaves their comfort zone with a six-bed new construction abandoned after framing. It's not a typical zombie, but this flip could earn them several hundred grand. (Repeat).</desc>
+    <credits>
+      <presenter>Justin Stamper</presenter>
+      <presenter>Keith Ori</presenter>
+      <presenter>Ashlee Casserly</presenter>
+      <producer>Craig Piligian</producer>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Reality</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/11411/011411/011411_1280x720_46185_014.jpg" />
+    <episode-num system="onscreen">S4 E8</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241103180000 +0000" stop="20241103190000 +0000">
+    <title lang="en">Zombie House Flipping</title>
+    <sub-title lang="en">Oaks</sub-title>
+    <desc lang="en">The zombie team takes on a promising flip in a small community, but local permit procedures and HOA regulations soon shut down their work. (Repeat).</desc>
+    <credits>
+      <presenter>Justin Stamper</presenter>
+      <presenter>Keith Ori</presenter>
+      <presenter>Ashlee Casserly</presenter>
+      <producer>Craig Piligian</producer>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Reality</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/11411/011411/011411_1280x720_46185_014.jpg" />
+    <episode-num system="onscreen">S4 E3</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241103190000 +0000" stop="20241103200000 +0000">
+    <title lang="en">Zombie House Flipping</title>
+    <sub-title lang="en">Back to the Flip: Haunted Havens</sub-title>
+    <desc lang="en">The Zombie team tackles two haunted flips that is sure to make the crew abandon ship due to all the creepy occurrences they run into. Will this cause the team to finally put a halt to flipping their Zombies not that they have to deal with Ghosts? (Repeat).</desc>
+    <credits>
+      <presenter>Justin Stamper</presenter>
+      <presenter>Keith Ori</presenter>
+      <presenter>Ashlee Casserly</presenter>
+      <producer>Craig Piligian</producer>
+    </credits>
+    <date>2024</date>
+    <category lang="en">Reality</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/11411/011411/011411_1280x720_46185_014.jpg" />
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241103200000 +0000" stop="20241103203000 +0000">
+    <title lang="en">My Strange Arrest</title>
+    <sub-title lang="en">Raw Chicken Chase</sub-title>
+    <desc lang="en">A woman makes a game of chance out of shoplifting; a burglar fails in robbery because of his clumsiness; a yougn driver denies DUI while chugging. (Repeat).</desc>
+    <date>2024</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Drama</category>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241103203000 +0000" stop="20241103210000 +0000">
+    <title lang="en">My Strange Arrest</title>
+    <sub-title lang="en">DUI Bride</sub-title>
+    <desc lang="en">A look at some of the strangest arrests from across the country: a man hurls furniture onto a busy NYC street from atop a skyscraper; a passenger allegedly tries to sneak onto a full flight; a self-proclaimed bride is arrested for DUI on her supposed wedding day, and more. (Repeat).</desc>
+    <date>2024</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Drama</category>
+    <episode-num system="onscreen">S2 E13</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241103210000 +0000" stop="20241103213000 +0000">
+    <title lang="en">My Strange Arrest</title>
+    <sub-title lang="en">Doorbell Licker</sub-title>
+    <desc lang="en">An aspiring rapper is arrested after performing on top of a billboard. A man is caught licking the doorbell intercom of a home. A detained shoplifting suspect escapes her handcuffs and steals a police car. (Repeat).</desc>
+    <date>2023</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Drama</category>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241103213000 +0000" stop="20241103220000 +0000">
+    <title lang="en">My Strange Arrest</title>
+    <sub-title lang="en">Box Headed Burglar</sub-title>
+    <desc lang="en">A man takes an alligator grocery shopping. An alleged thief employs an unusual approach to conceal his identity. A fugitive suspect discovers an extraordinarily tight hiding spot. (Repeat).</desc>
+    <date>2024</date>
+    <category lang="en">Documentary</category>
+    <category lang="en">Drama</category>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241103220000 +0000" stop="20241103230000 +0000">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Trust No One; Risky Business</sub-title>
+    <desc lang="en">A Cleveland man is murdered in his home; a robbery turns deadly in Dallas. (Repeat).</desc>
+    <credits>
+      <composer>Paul Brill</composer>
+      <director>Peter Tarshis</director>
+      <director>Charles Tremayne</director>
+      <producer>Chris Engelmann</producer>
+      <writer>Elena Sorre</writer>
     </credits>
     <date>2014</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Action</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme channel="5StarMAX.HD.us" start="20241030082900 -0500" stop="20241030100100 -0500">
-    <title lang="en">Notes on a Scandal</title>
-    <desc lang="en">A charismatic new colleague (Cate Blanchett) draws a veteran teacher (Judi Dench), and they become close friends, then the older woman learns of the other's affair with a teenage student.</desc>
-    <credits>
-      <actor>Cate Blanchett</actor>
-      <actor>Judi Dench</actor>
-      <actor>Bill Nighy</actor>
-    </credits>
-    <date>2006</date>
-    <category lang="en">Movies</category>
+    <category lang="en">Documentary</category>
     <category lang="en">Drama</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/7904/007904/007904_528x396_556149_069.jpg" />
+    <episode-num system="onscreen">S15 E8</episode-num>
     <previously-shown />  <rating system="MPAA">
-      <value>TVPG</value>
+      <value>TV-14</value>
     </rating>
-    <star-rating system="MPAA">
-      <value>6.0/10</value>
-    </star-rating>
   </programme>
-  <programme channel="5StarMAX.HD.us" start="20241030100100 -0500" stop="20241030115200 -0500">
-    <title lang="en">Two Lovers</title>
-    <desc lang="en">A man (Joaquin Phoenix) juggles relationships with an honest, loving young woman (Vinessa Shaw) and a manipulative neighbor (Gwyneth Paltrow) who has a married boyfriend.</desc>
+  <programme channel="A.and.E.Network.HDTV.(A.and.EHD).us" start="20241103230000 +0000" stop="20241104000000 +0000">
+    <title lang="en">The First 48</title>
+    <sub-title lang="en">Mother of Two</sub-title>
+    <desc lang="en">A woman is found strangled in her car, revealing a dark obsession that took a deadly turn. (Repeat).</desc>
     <credits>
-      <actor>Joaquin Phoenix</actor>
-      <actor>Gwyneth Paltrow</actor>
-      <actor>Vinessa Shaw</actor>
+      <composer>Paul Brill</composer>
+      <director>Peter Tarshis</director>
+      <director>Charles Tremayne</director>
+      <producer>Chris Engelmann</producer>
+      <writer>Elena Sorre</writer>
     </credits>
-    <date>2008</date>
-    <category lang="en">Movies</category>
+    <date>2016</date>
+    <category lang="en">Documentary</category>
     <category lang="en">Drama</category>
+    <icon src="https://content.internetvideoarchive.com/content/hdphotos/7904/007904/007904_528x396_556149_069.jpg" />
+    <episode-num system="onscreen">S17 E23</episode-num>
     <previously-shown />  <rating system="MPAA">
-      <value>TVPG</value>
+      <value>TV-14</value>
     </rating>
-    <star-rating system="MPAA">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme channel="5StarMAX.HD.us" start="20241030115200 -0500" stop="20241030133300 -0500">
-    <title lang="en">Get Hard</title>
-    <desc lang="en">The prison-bound manager (Will Ferrell) of a hedge fund asks a black businessman (Kevin Hart) -- who has never been to jail -- to prepare him for life behind bars.</desc>
-    <credits>
-      <actor>Will Ferrell</actor>
-      <actor>Kevin Hart</actor>
-      <actor>Craig T. Nelson</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Comedy</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-    <star-rating system="MPAA">
-      <value>4.0/10</value>
-    </star-rating>
-  </programme>
-  <programme channel="5StarMAX.HD.us" start="20241030133300 -0500" stop="20241030151600 -0500">
-    <title lang="en">Garden State</title>
-    <desc lang="en">An emotionally numb actor (Zach Braff) finds a soulmate in a quirky young woman after he returns to New Jersey for his mother's funeral.</desc>
-    <credits>
-      <actor>Zach Braff</actor>
-      <actor>Ian Holm</actor>
-      <actor>Ron Leibman</actor>
-    </credits>
-    <date>2004</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Comedy</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-    <star-rating system="MPAA">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme channel="5StarMAX.HD.us" start="20241030151600 -0500" stop="20241030172000 -0500">
-    <title lang="en">Shakespeare in Love</title>
-    <desc lang="en">Young William Shakespeare (Joseph Fiennes) falls for Viola (Gwyneth Paltrow), reawakening his creativity, but she is betrothed to Wessex.</desc>
-    <credits>
-      <actor>Joseph Fiennes</actor>
-      <actor>Gwyneth Paltrow</actor>
-      <actor>Geoffrey Rush</actor>
-    </credits>
-    <date>1998</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Romance</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-    <star-rating system="MPAA">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme channel="5StarMAX.HD.us" start="20241030172000 -0500" stop="20241030190800 -0500">
-    <title lang="en">Single White Female</title>
-    <desc lang="en">A software designer (Bridget Fonda) shares her Manhattan apartment with a young woman (Jennifer Jason Leigh) who's dangerous.</desc>
-    <credits>
-      <actor>Bridget Fonda</actor>
-      <actor>Jennifer Jason Leigh</actor>
-      <actor>Steven Weber</actor>
-    </credits>
-    <date>1992</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Thriller</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-    <star-rating system="MPAA">
-      <value>4.0/10</value>
-    </star-rating>
-  </programme>
-  <programme channel="5StarMAX.HD.us" start="20241030190800 -0500" stop="20241030210000 -0500">
-    <title lang="en">Leaving Las Vegas</title>
-    <desc lang="en">Intent on drinking himself to death, a man (Nicolas Cage) who has lost everything finds solace with a Las Vegas hooker (Elisabeth Shue).</desc>
-    <credits>
-      <actor>Nicolas Cage</actor>
-      <actor>Elisabeth Shue</actor>
-      <actor>Julian Sands</actor>
-    </credits>
-    <date>1995</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Drama</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-    <star-rating system="MPAA">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme channel="5StarMAX.HD.us" start="20241030210000 -0500" stop="20241030225600 -0500">
-    <title lang="en">White Men Can't Jump</title>
-    <desc lang="en">Two basketball hustlers (Wesley Snipes, Woody Harrelson), black and white, count on racial myth to cash in on street games.</desc>
-    <credits>
-      <actor>Wesley Snipes</actor>
-      <actor>Woody Harrelson</actor>
-      <actor>Rosie Perez</actor>
-    </credits>
-    <date>1992</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Comedy</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-    <star-rating system="MPAA">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme channel="5StarMAX.HD.us" start="20241030225600 -0500" stop="20241031004800 -0500">
-    <title lang="en">Brooklyn</title>
-    <desc lang="en">An Irish immigrant (Saoirse Ronan) in 1950s New York falls for a tough Italian plumber (Emory Cohen), but faces temptation from another man (Domhnall Gleeson) when she returns to her homeland for a visit.</desc>
-    <credits>
-      <actor>Saoirse Ronan</actor>
-      <actor>Domhnall Gleeson</actor>
-      <actor>Emory Cohen</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Romance</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-    <star-rating system="MPAA">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme channel="5StarMAX.HD.us" start="20241031004800 -0500" stop="20241031025300 -0500">
-    <title lang="en">Trumbo</title>
-    <desc lang="en">In 1947, successful screenwriter Dalton Trumbo (Bryan Cranston) and other Hollywood figures get blacklisted for their political beliefs.</desc>
-    <credits>
-      <actor>Bryan Cranston</actor>
-      <actor>Helen Mirren</actor>
-      <actor>Diane Lane</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="en">Movies</category>
-    <category lang="en">History</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-    <star-rating system="MPAA">
-      <value>6.0/10</value>
-    </star-rating>
-  </programme>
-  <programme channel="5StarMAX.HD.us" start="20241031025300 -0500" stop="20241031043200 -0500">
-    <title lang="en">Good Neighbours</title>
-    <desc lang="en">Victor is new to Montreal and attempts to make friends with the wheelchair-bound Spencer and the cat-loving Louise, but everybody is on edge with a serial killer terrorizing the neighborhood.</desc>
-    <credits>
-      <actor>Jay Baruchel</actor>
-      <actor>Scott Speedman</actor>
-      <actor>Emily Hampshire</actor>
-    </credits>
-    <date>2010</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Crime Story</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-    <star-rating system="MPAA">
-      <value>4.0/10</value>
-    </star-rating>
-  </programme>
-  <programme channel="5StarMAX.HD.us" start="20241031043200 -0400" stop="20241031043200 -0400">
-    <title lang="en">Radio</title>
-    <desc lang="en">A high-school football coach (Ed Harris) becomes a mentor to a mentally impaired young man (Cuba Gooding Jr.) in 1970s South Carolina.</desc>
-    <credits>
-      <actor>Cuba Gooding Jr.</actor>
-      <actor>Ed Harris</actor>
-      <actor>Alfre Woodard</actor>
-    </credits>
-    <date>2003</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Drama</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-    <star-rating system="MPAA">
-      <value>4.0/10</value>
-    </star-rating>
-  </programme>
-  <programme channel="5StarMAX.HD.us" start="20241031043200 -0500" stop="20241031043200 -0500">
-    <title lang="en">Radio</title>
-    <desc lang="en">A high-school football coach (Ed Harris) becomes a mentor to a mentally impaired young man (Cuba Gooding Jr.) in 1970s South Carolina.</desc>
-    <credits>
-      <actor>Cuba Gooding Jr.</actor>
-      <actor>Ed Harris</actor>
-      <actor>Alfre Woodard</actor>
-    </credits>
-    <date>2003</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Drama</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-    <star-rating system="MPAA">
-      <value>4.0/10</value>
-    </star-rating>
   </programme>
   <programme channel="5StarMAX.HD.us" start="20241031043200 -0500" stop="20241031062200 -0500">
     <title lang="en">Radio</title>
@@ -5045,6 +4731,252 @@
     <category lang="en">Movies</category>
     <category lang="en">Drama</category>
     <previously-shown /></programme>
+  <programme channel="5StarMAX.HD.us" start="20241103045300 -0500" stop="20241103060000 -0500">
+    <title lang="en">Joy</title>
+    <desc lang="en">A working-class single mother (Jennifer Lawrence) builds a business dynasty while dealing with her dysfunctional parents and ex-husband (Edgar Ramírez).</desc>
+    <credits>
+      <actor>Jennifer Lawrence</actor>
+      <actor>Robert De Niro</actor>
+      <actor>Edgar Ramírez</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="5StarMAX.HD.us" start="20241103060000 -0500" stop="20241103074100 -0500">
+    <title lang="en">After Earth</title>
+    <desc lang="en">With his father (Will Smith) trapped in the wreckage of their spacecraft, a youth (Jaden Smith) treks across Earth's now-hostile terrain to recover their rescue beacon and signal for help.</desc>
+    <credits>
+      <actor>Jaden Smith</actor>
+      <actor>Will Smith</actor>
+      <actor>Sophie Okonedo</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Sci-Fi</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>2.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="5StarMAX.HD.us" start="20241103074100 -0500" stop="20241103092800 -0500">
+    <title lang="en">Shirley</title>
+    <desc lang="en">A famous horror writer finds inspiration for her next book after she and her husband take in a young couple.</desc>
+    <credits>
+      <actor>Elisabeth Moss</actor>
+      <actor>Michael Stuhlbarg</actor>
+      <actor>Odessa Young</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme channel="5StarMAX.HD.us" start="20241103092800 -0500" stop="20241103105000 -0500">
+    <title lang="en">Godzilla, King of the Monsters!</title>
+    <desc lang="en">A U.S. newsman (Raymond Burr) in Tokyo recounts the story of a huge dinosaur roused from the sea by an atomic blast.</desc>
+    <credits>
+      <actor>Raymond Burr</actor>
+      <actor>Takashi Shimura</actor>
+      <actor>Momoko Kochi</actor>
+    </credits>
+    <date>1956</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Sci-Fi</category>
+    <premiere lang="en" />
+    <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="5StarMAX.HD.us" start="20241103105000 -0500" stop="20241103122100 -0500">
+    <title lang="en">Taken</title>
+    <desc lang="en">A former spy (Liam Neeson) puts his extensive training to the test when he must rescue his kidnapped daughter from sex-slave traffickers.</desc>
+    <credits>
+      <actor>Liam Neeson</actor>
+      <actor>Maggie Grace</actor>
+      <actor>Famke Janssen</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="5StarMAX.HD.us" start="20241103122100 -0500" stop="20241103140000 -0500">
+    <title lang="en">World's Greatest Dad</title>
+    <desc lang="en">A high-school poetry teacher (Robin Williams) is also a single father and dreams of becoming a successful writer, but a freak accident leads to both tragedy and opportunity.</desc>
+    <credits>
+      <actor>Robin Williams</actor>
+      <actor>Alexie Gilmore</actor>
+      <actor>Daryl Sabara</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="5StarMAX.HD.us" start="20241103140000 -0500" stop="20241103153400 -0500">
+    <title lang="en">127 Hours</title>
+    <desc lang="en">After his arm becomes pinned by a boulder in a remote canyon, mountaineer Aron Ralston (James Franco) must do the unthinkable in order to survive.</desc>
+    <credits>
+      <actor>James Franco</actor>
+      <actor>Amber Tamblyn</actor>
+      <actor>Kate Mara</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="5StarMAX.HD.us" start="20241103153400 -0500" stop="20241103170400 -0500">
+    <title lang="en">The Amityville Horror</title>
+    <desc lang="en">A couple (James Brolin, Margot Kidder) battle a demonic presence in their new home, the location of many gruesome murders a year earlier.</desc>
+    <credits>
+      <actor>James Brolin</actor>
+      <actor>Margot Kidder</actor>
+      <actor>Rod Steiger</actor>
+    </credits>
+    <date>1979</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Horror</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="5StarMAX.HD.us" start="20241103170400 -0500" stop="20241103190300 -0500">
+    <title lang="en">The A-Team</title>
+    <desc lang="en">A fugitive special forces team leaves mayhem in their wake in this action-packed update of the classic 1980s TV series.</desc>
+    <credits>
+      <actor>Liam Neeson</actor>
+      <actor>Bradley Cooper</actor>
+      <actor>Jessica Biel</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="5StarMAX.HD.us" start="20241103190300 -0500" stop="20241103210000 -0500">
+    <title lang="en">RoboCop 2</title>
+    <desc lang="en">The cyborg policeman (Peter Weller) and his female partner (Nancy Allen) oppose the mayor and a drug magnate in Old Detroit.</desc>
+    <credits>
+      <actor>Peter Weller</actor>
+      <actor>Nancy Allen</actor>
+      <actor>Dan O'Herlihy</actor>
+    </credits>
+    <date>1990</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Sci-Fi</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="5StarMAX.HD.us" start="20241103210000 -0500" stop="20241103224500 -0500">
+    <title lang="en">RoboCop 3</title>
+    <desc lang="en">The cyborg policeman (Robert John Burke) takes to the air to defend a run-down neighborhood from a Japanese tycoon.</desc>
+    <credits>
+      <actor>Robert John Burke</actor>
+      <actor>Nancy Allen</actor>
+      <actor>Rip Torn</actor>
+    </credits>
+    <date>1993</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Sci-Fi</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>2.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="5StarMAX.HD.us" start="20241103224500 -0500" stop="20241104003100 -0500">
+    <title lang="en">Love Beats Rhymes</title>
+    <desc lang="en">A young woman dream of making it big in the world of hip hop, but her parents demand that she finish college. She dutifully agrees to complete her education, however her spoken word proves to have a powerful impact in the classroom.</desc>
+    <credits>
+      <actor>Azealia Banks</actor>
+      <actor>Jill Scott</actor>
+      <actor>Lucien Laviscount</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <previously-shown /></programme>
+  <programme channel="5StarMAX.HD.us" start="20241104003100 -0500" stop="20241104021900 -0500">
+    <title lang="en">Machete Kills</title>
+    <desc lang="en">The president recruits ex-Federale Machete (Danny Trejo) to take down an eccentric arms dealer who plans to spread war and anarchy throughout the world.</desc>
+    <credits>
+      <actor>Danny Trejo</actor>
+      <actor>Michelle Rodriguez</actor>
+      <actor>Sofía Vergara</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme channel="5StarMAX.HD.us" start="20241104021900 -0500" stop="20241104041800 -0500">
+    <title lang="en">The Lobster</title>
+    <desc lang="en">In a dystopian society, single people must find a mate within 45 days or be transformed into an animal of their choice.</desc>
+    <credits>
+      <actor>Colin Farrell</actor>
+      <actor>Rachel Weisz</actor>
+      <actor>Jessica Barden</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Fantasy</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
   <channel id="A.and.E.(Mexico).(AandE).mx">
     <display-name lang="en">A and E (Mexico) (AandE)</display-name>
     <url>http://www.tvguide.com</url>
