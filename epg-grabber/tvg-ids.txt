@@ -1,12 +1,7 @@
 Cinebox.Dummy.us
 HULU.us
 MORBIDO.HDTV.(MRBTV).cl
-NETFLIX.co
-PRIME.VIDEO.co
-YOUTUBE.co
-YOUTUBE.KIDS.co
 Baseball.Dummy.us
-Basketball.Dummy.us
 5StarMAX.HD.us
 A.and.E.(Mexico).(AandE).mx
 A.and.E.Network.HDTV.(A.and.EHD).us
